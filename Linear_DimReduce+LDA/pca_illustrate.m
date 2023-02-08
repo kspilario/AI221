@@ -34,7 +34,7 @@ V = pca(X,'Centered',false);
 subplot(224);
 L = [2*lim 0; -2*lim 0];        % Define some line at 2 arbitrary pts.
 L1 = (V*L')'; hold on;          % Project / rotate the 2 pts. using V
-plot(L1(:,1),L1(:,2),'r--', ...
+plot(L1(:,1),L1(:,2),'r--',...
     'LineWidth',1.5);           % Plot red dashed line (max variance)
 col = [34,139,34]/255;          % Forest green color (for dist. later)
 
@@ -50,7 +50,7 @@ for j = [zeros(1,10), 0:0.05:2*pi]
                      % PC = principal component
 
     subplot(224); hold on;
-    a = plot(PC(:,1),PC(:,2),'k--', ...
+    a = plot(PC(:,1),PC(:,2),'k--',...
              'LineWidth',1.5);              % Plot the rotated dashed line
     scores = (V'*X')';                      % Project actual data                                 
     [f,xi] = ksdensity(scores(:,1));        % Use KDE on actual data
