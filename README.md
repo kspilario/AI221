@@ -7,7 +7,7 @@ Pre-requisite knowledge on linear algebra (AI 211), optimization theory, basic s
 ## Usage
 The repository is organized into folders based on the weekly topics covered in the class, as follows:
 - Introduction to Machine Learning
-- [Linear and Logistic Regression](/tree/main/Linear_and_Logistic_Regression)
+- [Linear and Logistic Regression](/Linear_and_Logistic_Regression)
 - Kernel Methods
 - Cross-validation and Hyper-parameter Search
 - Linear Dimensionality Reduction and LDA
