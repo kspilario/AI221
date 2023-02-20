@@ -11,7 +11,7 @@ The repository is organized into folders based on the weekly topics covered in t
 - [Kernel Methods](/Kernel_Methods)
 - [Cross-validation and Hyper-parameter Search](/Cross-validation)
 - [Linear Dimensionality Reduction and LDA](/Linear_DimReduce+LDA)
-- Nonlinear Dimensionality Reduction
+- [Nonlinear Dimensionality Reduction](/Nonlinear_DimReduce)
 - Clustering, Density Estimation, Anomaly Detection
 - Ensemble Learning
 - Neural Networks, Part 1
