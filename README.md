@@ -1,6 +1,6 @@
 # AI 221: Classical Machine Learning
 
-Welcome to the GitHub repository for our course: AI 221 Classical Machine Learning. This repository contains both Python codes (Jupyter notebooks) and MATLAB codes used in class.
+Welcome to the GitHub repository for my course: AI 221 Classical Machine Learning. This repository contains both Python codes (Jupyter notebooks) and MATLAB codes used in class.
 AI 221 is intended for 2nd term graduate students at the Artificial Intelligence Program at the College of Engineering, University of the Philippines, Diliman.
 Pre-requisite knowledge on linear algebra (AI 211), optimization theory, basic statistics, and calculus are required.
 
