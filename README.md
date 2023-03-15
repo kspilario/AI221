@@ -12,7 +12,7 @@ The repository is organized into folders based on the weekly topics covered in t
 - [Cross-validation and Hyper-parameter Search](/Cross-validation)
 - [Linear Dimensionality Reduction and LDA](/Linear_DimReduce+LDA)
 - [Nonlinear Dimensionality Reduction](/Nonlinear_DimReduce)
-- Clustering, Density Estimation, Anomaly Detection
+- [Clustering, Density Estimation, Anomaly Detection](/Clustering_Anomaly_Detect)
 - Ensemble Learning
 - Neural Networks, Part 1
 - Neural Networks, Part 2
