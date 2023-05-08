@@ -14,13 +14,12 @@ The repository is organized into folders based on the weekly topics covered in t
 - [Nonlinear Dimensionality Reduction](/Nonlinear_DimReduce)
 - [Clustering, Density Estimation, Anomaly Detection](/Clustering_Anomaly_Detect)
 - [Ensemble Learning](/Ensemble_Learning)
-- Neural Networks, Part 1
-- Neural Networks, Part 2
+- Neural Networks
 - Gaussian Processes and Bayesian Optimization
 - AutoML and Explainable AI (XAI)
 
 ## Contributing
-If you find any issues or have any suggestions for improvement, feel free to open an issue or create a pull request. If any codes are not working on your terminal, let me know.
+If you find any issues or have any suggestions for improvement, feel free to contact me via kspilario@up.edu.ph. If any codes are not working on your terminal, let me know.
 
 
 
