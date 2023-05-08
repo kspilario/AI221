@@ -14,7 +14,7 @@ The repository is organized into folders based on the weekly topics covered in t
 - [Nonlinear Dimensionality Reduction](/Nonlinear_DimReduce)
 - [Clustering, Density Estimation, Anomaly Detection](/Clustering_Anomaly_Detect)
 - [Ensemble Learning](/Ensemble_Learning)
-- Neural Networks
+- [Neural Networks](/Neural_Networks)
 - Gaussian Processes and Bayesian Optimization
 - AutoML and Explainable AI (XAI)
 
