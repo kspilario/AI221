@@ -15,7 +15,7 @@ The repository is organized into folders based on the weekly topics covered in t
 - [Clustering, Density Estimation, Anomaly Detection](/Clustering_Anomaly_Detect)
 - [Ensemble Learning](/Ensemble_Learning)
 - [Neural Networks](/Neural_Networks)
-- Gaussian Processes and Bayesian Optimization
+- [Gaussian Processes and Bayesian Optimization](/Gaussian_Processes+BayesOpt)
 - AutoML and Explainable AI (XAI)
 
 ## Contributing
