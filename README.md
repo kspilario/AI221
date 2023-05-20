@@ -16,7 +16,7 @@ The repository is organized into folders based on the weekly topics covered in t
 - [Ensemble Learning](/Ensemble_Learning)
 - [Neural Networks](/Neural_Networks)
 - [Gaussian Processes and Bayesian Optimization](/Gaussian_Process+BayesOpt)
-- AutoML and Explainable AI (XAI)
+- [AutoML and Explainable AI (XAI)](/AutoML_and_XAI)
 
 ## Contributing
 If you find any issues or have any suggestions for improvement, feel free to contact me via kspilario@up.edu.ph. If any codes are not working on your terminal, let me know.
