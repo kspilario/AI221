@@ -7,17 +7,17 @@ Pre-requisite knowledge on linear algebra (AI 211), optimization theory, basic s
 
 ## Usage
 The repository is organized into folders based on the weekly topics covered in the class, as follows:
-- Introduction to Machine Learning
-- [Linear and Logistic Regression](/Linear_and_Logistic_Regression)
-- [Kernel Methods](/Kernel_Methods)
-- [Cross-validation and Hyper-parameter Search](/Cross-validation)
-- [Linear Dimensionality Reduction and LDA](/Linear_DimReduce+LDA)
-- [Nonlinear Dimensionality Reduction](/Nonlinear_DimReduce)
-- [Clustering, Density Estimation, Anomaly Detection](/Clustering_Anomaly_Detect)
-- [Ensemble Learning](/Ensemble_Learning)
-- [Neural Networks](/Neural_Networks)
-- [Gaussian Processes and Bayesian Optimization](/Gaussian_Process+BayesOpt)
-- [AutoML and Explainable AI (XAI)](/AutoML_and_XAI)
+Week 1. Introduction to Machine Learning
+Week 2. [Linear and Logistic Regression](/Linear_and_Logistic_Regression)
+Week 3. [Kernel Methods](/Kernel_Methods)
+Week 4. [Cross-validation and Hyper-parameter Search](/Cross-validation)
+Week 5. [Linear Dimensionality Reduction and LDA](/Linear_DimReduce+LDA)
+Week 6. [Nonlinear Dimensionality Reduction](/Nonlinear_DimReduce)
+Week 7. [Clustering, Density Estimation, Anomaly Detection](/Clustering_Anomaly_Detect)
+Week 8. [Trees, Weak Learners, and Ensemble Learning](/Ensemble_Learning)
+Week 9. [Neural Networks](/Neural_Networks)
+Week 10. [Gaussian Processes and Bayesian Optimization](/Gaussian_Process+BayesOpt)
+Week 11. [AutoML and Explainable AI (XAI)](/AutoML_and_XAI)
 
 ## Contributing
 If you find any issues or have any suggestions for improvement, feel free to contact me via kspilario@up.edu.ph. If any codes are not working on your terminal, let me know.
