@@ -1,0 +1,488 @@
+,name,album,release_date,track_number,id,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,duration_ms
+0,Mine (Taylor's Version),Speak Now (Taylor's Version),2023-07-07,1,7G0gBu6nLdhFDPRLc0HdDG,spotify:track:7G0gBu6nLdhFDPRLc0HdDG,0.00444,0.646,0.783,1.38e-06,0.171,-2.846,0.0356,121.08,0.49,87,231706
+1,Sparks Fly (Taylor’s Version),Speak Now (Taylor's Version),2023-07-07,2,3MytWN8L7shNYzGl4tAKRp,spotify:track:3MytWN8L7shNYzGl4tAKRp,0.0251,0.588,0.758,0.0,0.131,-2.347,0.0305,114.991,0.387,84,261230
+2,Back To December (Taylor's Version),Speak Now (Taylor's Version),2023-07-07,3,79uDOz0zuuWS7HWxzMmTa2,spotify:track:79uDOz0zuuWS7HWxzMmTa2,0.00621,0.497,0.635,0.0,0.117,-3.927,0.0273,142.063,0.203,88,294189
+3,Speak Now (Taylor's Version),Speak Now (Taylor's Version),2023-07-07,4,5xXqyjLicvEpch72qEryFT,spotify:track:5xXqyjLicvEpch72qEryFT,0.248,0.727,0.677,0.0,0.143,-2.871,0.0325,118.995,0.639,84,242473
+4,Dear John (Taylor's Version),Speak Now (Taylor's Version),2023-07-07,5,1zU8j1x3yi9xalMF96pzKp,spotify:track:1zU8j1x3yi9xalMF96pzKp,0.0236,0.419,0.47,0.0,0.163,-5.016,0.0296,119.294,0.133,84,405906
+5,Mean (Taylor's Version),Speak Now (Taylor's Version),2023-07-07,6,30Y4CV7A6YqtQtTTo7Ue4j,spotify:track:30Y4CV7A6YqtQtTTo7Ue4j,0.311,0.524,0.692,0.0,0.192,-3.866,0.0369,163.874,0.621,83,238693
+6,The Story Of Us (Taylor's Version),Speak Now (Taylor's Version),2023-07-07,7,6dTA6y0C2ReQklntzZl8l3,spotify:track:6dTA6y0C2ReQklntzZl8l3,0.00192,0.515,0.781,0.0,0.054,-2.608,0.0535,139.846,0.57,83,267653
+7,Never Grow Up (Taylor's Version),Speak Now (Taylor's Version),2023-07-07,8,2EFZ9emtKWEglWUQGEQ3P9,spotify:track:2EFZ9emtKWEglWUQGEQ3P9,0.851,0.685,0.323,0.0,0.198,-7.103,0.0289,125.058,0.569,79,292920
+8,Enchanted (Taylor's Version),Speak Now (Taylor's Version),2023-07-07,9,3sW3oSbzsfecv9XoUdGs7h,spotify:track:3sW3oSbzsfecv9XoUdGs7h,0.012,0.505,0.532,0.0,0.149,-3.526,0.0265,81.907,0.216,89,353253
+9,Better Than Revenge (Taylor's Version),Speak Now (Taylor's Version),2023-07-07,10,0NwGC0v03ysCYINtg6ns58,spotify:track:0NwGC0v03ysCYINtg6ns58,0.000886,0.496,0.885,0.0,0.191,-2.969,0.0803,145.863,0.665,85,220306
+10,Innocent (Taylor's Version),Speak Now (Taylor's Version),2023-07-07,11,12nBPF4Rh4XLFJV0YLN7uj,spotify:track:12nBPF4Rh4XLFJV0YLN7uj,0.101,0.522,0.598,0.0,0.152,-5.327,0.0284,133.627,0.149,78,301221
+11,Haunted (Taylor's Version),Speak Now (Taylor's Version),2023-07-07,12,4tMzIAFTFdqGBQLdfbPces,spotify:track:4tMzIAFTFdqGBQLdfbPces,0.00667,0.427,0.915,0.0,0.221,-1.909,0.0619,162.201,0.355,81,245413
+12,Last Kiss (Taylor's Version),Speak Now (Taylor's Version),2023-07-07,13,59KOoHFcw5XfICnO57holu,spotify:track:59KOoHFcw5XfICnO57holu,0.447,0.55,0.366,4.43e-06,0.101,-8.46,0.0276,79.401,0.16,81,369120
+13,Long Live (Taylor's Version),Speak Now (Taylor's Version),2023-07-07,14,4hqJ4bSlYJOXb6Z4SRmzxs,spotify:track:4hqJ4bSlYJOXb6Z4SRmzxs,0.0122,0.375,0.65,0.0,0.189,-4.031,0.0402,203.89,0.0752,84,317960
+14,Ours (Taylor’s Version),Speak Now (Taylor's Version),2023-07-07,15,3yNJkriPzWjkkDAWHIAVUq,spotify:track:3yNJkriPzWjkkDAWHIAVUq,0.449,0.535,0.488,0.0,0.111,-8.261,0.0278,159.813,0.348,79,235803
+15,Superman (Taylor’s Version),Speak Now (Taylor's Version),2023-07-07,16,4evLyY5Ue1Wesc61t2KXAU,spotify:track:4evLyY5Ue1Wesc61t2KXAU,0.0031,0.533,0.742,0.0,0.108,-3.473,0.0303,131.93,0.356,77,274945
+16,Electric Touch (feat. Fall Out Boy) (Taylor’s Version) (From The Vault),Speak Now (Taylor's Version),2023-07-07,17,4e3ZNTAV6PCrdYMUrUlMpQ,spotify:track:4e3ZNTAV6PCrdYMUrUlMpQ,0.0164,0.547,0.855,0.0,0.144,-4.7,0.0597,131.073,0.282,82,266466
+17,When Emma Falls in Love (Taylor’s Version) (From The Vault),Speak Now (Taylor's Version),2023-07-07,18,0zo975x58DlXbZllWvfYhg,spotify:track:0zo975x58DlXbZllWvfYhg,0.159,0.474,0.763,0.0,0.138,-4.632,0.0505,78.133,0.231,82,252385
+18,I Can See You (Taylor’s Version) (From The Vault),Speak Now (Taylor's Version),2023-07-07,19,5kHMfzgLZP95O9NBy0ku4v,spotify:track:5kHMfzgLZP95O9NBy0ku4v,0.0586,0.694,0.764,0.0,0.0608,-4.893,0.0337,123.044,0.819,91,273186
+19,Castles Crumbling (feat. Hayley Williams) (Taylor’s Version) (From The Vault),Speak Now (Taylor's Version),2023-07-07,20,4ABYxlb92WBIjHu7TIKmml,spotify:track:4ABYxlb92WBIjHu7TIKmml,0.362,0.576,0.57,0.0,0.0668,-7.925,0.0434,147.803,0.378,82,306062
+20,Foolish One (Taylor’s Version) (From The Vault),Speak Now (Taylor's Version),2023-07-07,21,4s8BIKx4Zh6ryAEz8RTlaU,spotify:track:4s8BIKx4Zh6ryAEz8RTlaU,0.617,0.671,0.588,0.0,0.111,-4.675,0.0299,96.965,0.543,83,311765
+21,Timeless (Taylor’s Version) (From The Vault),Speak Now (Taylor's Version),2023-07-07,22,1HCdems7PQZRj42QDWLA0A,spotify:track:1HCdems7PQZRj42QDWLA0A,0.3,0.624,0.585,0.0,0.0916,-5.847,0.0328,142.883,0.65,82,321396
+22,Lavender Haze,Midnights (The Til Dawn Edition),2023-05-26,1,24emu3sabKISjRkrys28jq,spotify:track:24emu3sabKISjRkrys28jq,0.236,0.735,0.454,0.00113,0.133,-10.516,0.0876,97.043,0.0751,69,202395
+23,Maroon,Midnights (The Til Dawn Edition),2023-05-26,2,6qxvy9Pe4RJIq5JBVbbwbS,spotify:track:6qxvy9Pe4RJIq5JBVbbwbS,0.0609,0.65,0.397,1.4e-06,0.089,-8.237,0.0365,108.055,0.0382,69,218270
+24,Anti-Hero,Midnights (The Til Dawn Edition),2023-05-26,3,5qIHFdkW6phMsTZlN2g8Lc,spotify:track:5qIHFdkW6phMsTZlN2g8Lc,0.115,0.637,0.649,1.22e-06,0.147,-6.59,0.0584,96.935,0.497,69,200690
+25,Snow On The Beach (feat. Lana Del Rey),Midnights (The Til Dawn Edition),2023-05-26,4,7GA86Uo2jYbj8vIXe2nyWd,spotify:track:7GA86Uo2jYbj8vIXe2nyWd,0.705,0.653,0.331,0.0013,0.116,-13.534,0.039,110.014,0.166,67,256124
+26,"You're On Your Own, Kid",Midnights (The Til Dawn Edition),2023-05-26,5,6PQOU00xWNrGwCZzboriXy,spotify:track:6PQOU00xWNrGwCZzboriXy,0.423,0.694,0.386,1.05e-05,0.126,-10.312,0.0597,120.044,0.39,69,194206
+27,Midnight Rain,Midnights (The Til Dawn Edition),2023-05-26,6,4eKMqf9ZMSclDX7V9Ptg7x,spotify:track:4eKMqf9ZMSclDX7V9Ptg7x,0.705,0.654,0.372,6.78e-05,0.114,-11.704,0.0667,140.15,0.198,69,174782
+28,Question...?,Midnights (The Til Dawn Edition),2023-05-26,7,7oomkQSYf1ia2VnVEWfFIU,spotify:track:7oomkQSYf1ia2VnVEWfFIU,0.205,0.741,0.509,0.0,0.262,-8.747,0.19,108.978,0.113,67,210556
+29,Vigilante Shit,Midnights (The Til Dawn Edition),2023-05-26,8,0GKDhq6ZbmSbRHd3eyGlB7,spotify:track:0GKDhq6ZbmSbRHd3eyGlB7,0.157,0.867,0.272,3.42e-05,0.118,-11.014,0.363,79.962,0.157,68,164801
+30,Bejeweled,Midnights (The Til Dawn Edition),2023-05-26,9,0VpF6RLdCfPIeYRwMu4tZK,spotify:track:0VpF6RLdCfPIeYRwMu4tZK,0.0648,0.695,0.546,0.000128,0.0883,-9.184,0.066,164.0,0.425,69,194165
+31,Labyrinth,Midnights (The Til Dawn Edition),2023-05-26,10,4bBDkw2KBMX0tcgAaXC83Q,spotify:track:4bBDkw2KBMX0tcgAaXC83Q,0.804,0.493,0.308,0.328,0.123,-15.489,0.0436,109.993,0.13,66,247962
+32,Karma,Midnights (The Til Dawn Edition),2023-05-26,11,45R112Jz5hQeKgITXgSXzs,spotify:track:45R112Jz5hQeKgITXgSXzs,0.0782,0.647,0.614,0.0,0.611,-7.091,0.0651,90.034,0.0956,69,204852
+33,Sweet Nothing,Midnights (The Til Dawn Edition),2023-05-26,12,2L09RYwH5Pjzca6PmbUAw3,spotify:track:2L09RYwH5Pjzca6PmbUAw3,0.967,0.335,0.166,0.00012,0.115,-14.958,0.048,175.917,0.391,66,188496
+34,Mastermind,Midnights (The Til Dawn Edition),2023-05-26,13,1QQii3pa5m8MEda0nbkjfw,spotify:track:1QQii3pa5m8MEda0nbkjfw,0.545,0.661,0.345,0.000915,0.0871,-14.037,0.144,125.977,0.126,67,191039
+35,The Great War,Midnights (The Til Dawn Edition),2023-05-26,14,2VuqMjgoKaOHNM8HpxtXKx,spotify:track:2VuqMjgoKaOHNM8HpxtXKx,0.203,0.573,0.737,2.78e-05,0.0851,-9.002,0.0352,96.009,0.592,68,240355
+36,Bigger Than The Whole Sky,Midnights (The Til Dawn Edition),2023-05-26,15,71CBDRKmF2VeRKYMG1DFBh,spotify:track:71CBDRKmF2VeRKYMG1DFBh,0.837,0.48,0.22,0.00269,0.116,-12.469,0.0425,82.951,0.0633,66,218502
+37,Paris,Midnights (The Til Dawn Edition),2023-05-26,16,5tWxKWq1DSP1s9WQ5PWuqu,spotify:track:5tWxKWq1DSP1s9WQ5PWuqu,0.116,0.691,0.498,3.07e-05,0.136,-10.519,0.101,110.963,0.454,66,196258
+38,High Infidelity,Midnights (The Til Dawn Edition),2023-05-26,17,1SztNGCwEHJEVFx90E5g7D,spotify:track:1SztNGCwEHJEVFx90E5g7D,0.726,0.564,0.545,0.0,0.0878,-10.17,0.104,176.082,0.766,65,231475
+39,Glitch,Midnights (The Til Dawn Edition),2023-05-26,18,7C0w28EsX0Um2FrZs9gso2,spotify:track:7C0w28EsX0Um2FrZs9gso2,0.318,0.677,0.451,0.0,0.11,-9.744,0.19,140.845,0.399,64,148781
+40,"Would've, Could've, Should've",Midnights (The Til Dawn Edition),2023-05-26,19,4txojlesMFQZGWxwz2EeqB,spotify:track:4txojlesMFQZGWxwz2EeqB,0.435,0.482,0.837,0.00147,0.123,-6.501,0.12,157.96,0.534,68,260361
+41,Dear Reader,Midnights (The Til Dawn Edition),2023-05-26,20,10GRRCR5fctuOF4GFmATJI,spotify:track:10GRRCR5fctuOF4GFmATJI,0.497,0.475,0.386,0.00104,0.119,-12.038,0.0737,107.601,0.162,65,225194
+42,Hits Different,Midnights (The Til Dawn Edition),2023-05-26,21,3xYJScVfxByb61dYHTwiby,spotify:track:3xYJScVfxByb61dYHTwiby,0.148,0.672,0.782,4.73e-06,0.296,-6.499,0.0421,106.026,0.239,84,234466
+43,Snow On The Beach (feat. More Lana Del Rey),Midnights (The Til Dawn Edition),2023-05-26,22,4zmKGsrXjLmljb5fTaBTot,spotify:track:4zmKGsrXjLmljb5fTaBTot,0.806,0.664,0.401,3.5e-06,0.108,-10.934,0.0344,109.846,0.315,84,229942
+44,Karma (feat. Ice Spice),Midnights (The Til Dawn Edition),2023-05-26,23,4i6cwNY6oIUU2XZxPIw82Y,spotify:track:4i6cwNY6oIUU2XZxPIw82Y,0.0623,0.615,0.616,0.0,0.579,-6.523,0.0622,89.977,0.0734,78,201493
+45,Lavender Haze,Midnights (3am Edition),2022-10-22,1,4g2c7NoTWAOSYDy44l9nub,spotify:track:4g2c7NoTWAOSYDy44l9nub,0.204,0.735,0.444,0.0012,0.17,-10.519,0.0684,97.038,0.0984,73,202395
+46,Maroon,Midnights (3am Edition),2022-10-22,2,199E1RRrVmVTQqBXih5qRC,spotify:track:199E1RRrVmVTQqBXih5qRC,0.0593,0.658,0.378,0.0,0.0976,-8.3,0.0379,108.034,0.0382,71,218270
+47,Anti-Hero,Midnights (3am Edition),2022-10-22,3,02Zkkf2zMkwRGQjZ7T4p8f,spotify:track:02Zkkf2zMkwRGQjZ7T4p8f,0.133,0.638,0.634,1.23e-06,0.152,-6.582,0.0457,96.953,0.519,74,200690
+48,Snow On The Beach (feat. Lana Del Rey),Midnights (3am Edition),2022-10-22,4,6ADDIJxxqzM9LMpm78yzQG,spotify:track:6ADDIJxxqzM9LMpm78yzQG,0.735,0.659,0.323,0.00321,0.116,-13.425,0.0436,110.007,0.154,70,256124
+49,"You're On Your Own, Kid",Midnights (3am Edition),2022-10-22,5,7gVWKBcfIW93YxNBi3ApIE,spotify:track:7gVWKBcfIW93YxNBi3ApIE,0.416,0.694,0.38,8.47e-06,0.126,-10.307,0.0614,120.044,0.376,72,194206
+50,Midnight Rain,Midnights (3am Edition),2022-10-22,6,6Nl7KyvjkFncGsjB49SxLl,spotify:track:6Nl7KyvjkFncGsjB49SxLl,0.71,0.636,0.377,6.51e-05,0.115,-11.721,0.0708,139.966,0.23,73,174782
+51,Question...?,Midnights (3am Edition),2022-10-22,7,6C7OF1Jal7YkyjzyUG8vkK,spotify:track:6C7OF1Jal7YkyjzyUG8vkK,0.226,0.751,0.502,0.0,0.297,-8.777,0.162,108.989,0.112,69,210556
+52,Vigilante Shit,Midnights (3am Edition),2022-10-22,8,5yeuXkukVGuix3vmLu2BPJ,spotify:track:5yeuXkukVGuix3vmLu2BPJ,0.16,0.87,0.279,1.74e-05,0.121,-11.134,0.364,79.996,0.16,72,164801
+53,Bejeweled,Midnights (3am Edition),2022-10-22,9,0jvo9CjnbR0lYUDTSNTMiu,spotify:track:0jvo9CjnbR0lYUDTSNTMiu,0.0661,0.7,0.55,0.000102,0.091,-9.13,0.0653,164.003,0.412,73,194165
+54,Labyrinth,Midnights (3am Edition),2022-10-22,10,43q586vP8gGkYypKoSddhl,spotify:track:43q586vP8gGkYypKoSddhl,0.791,0.487,0.313,0.348,0.124,-15.434,0.0487,110.039,0.141,68,247962
+55,Karma,Midnights (3am Edition),2022-10-22,11,5oqDgw5VGBln5dSIOPWyBq,spotify:track:5oqDgw5VGBln5dSIOPWyBq,0.074,0.649,0.622,0.0,0.594,-7.054,0.0582,90.024,0.106,77,204852
+56,Sweet Nothing,Midnights (3am Edition),2022-10-22,12,3zmwONxswBAzGwExPugSLN,spotify:track:3zmwONxswBAzGwExPugSLN,0.967,0.334,0.161,4.71e-05,0.115,-14.875,0.0506,176.747,0.396,69,188496
+57,Mastermind,Midnights (3am Edition),2022-10-22,13,56hioFjQ0DXrdn04hZcFgG,spotify:track:56hioFjQ0DXrdn04hZcFgG,0.571,0.661,0.352,0.00147,0.0884,-14.077,0.117,125.934,0.13,74,191039
+58,The Great War,Midnights (3am Edition),2022-10-22,14,3UMrglJeju5yWyYIW6o99b,spotify:track:3UMrglJeju5yWyYIW6o99b,0.219,0.573,0.741,2.23e-05,0.0842,-8.987,0.0353,96.016,0.554,80,240355
+59,Bigger Than The Whole Sky,Midnights (3am Edition),2022-10-22,15,0BiqmkasE5FdrChwKfVp8X,spotify:track:0BiqmkasE5FdrChwKfVp8X,0.826,0.422,0.235,0.00648,0.115,-12.379,0.0568,165.71,0.068,75,218502
+60,Paris,Midnights (3am Edition),2022-10-22,16,7712gjoih4QoDbXpljEk21,spotify:track:7712gjoih4QoDbXpljEk21,0.112,0.7,0.509,3.27e-05,0.137,-10.547,0.0789,110.947,0.345,74,196258
+61,High Infidelity,Midnights (3am Edition),2022-10-22,17,5kiZGSxgqPdv6rbqL9THdd,spotify:track:5kiZGSxgqPdv6rbqL9THdd,0.723,0.646,0.529,0.0,0.0885,-10.179,0.0864,87.862,0.755,73,231475
+62,Glitch,Midnights (3am Edition),2022-10-22,18,6wAFvJPpTZVirBKGZ4EnMW,spotify:track:6wAFvJPpTZVirBKGZ4EnMW,0.361,0.675,0.466,0.0,0.11,-9.738,0.201,140.864,0.347,71,148781
+63,"Would've, Could've, Should've",Midnights (3am Edition),2022-10-22,19,0aV5uARAknQgYhBaK944FP,spotify:track:0aV5uARAknQgYhBaK944FP,0.43,0.483,0.84,0.000575,0.146,-6.508,0.119,157.979,0.55,77,260361
+64,Dear Reader,Midnights (3am Edition),2022-10-22,20,3QF5RsWzK1lCvf2o2cY65P,spotify:track:3QF5RsWzK1lCvf2o2cY65P,0.481,0.562,0.388,0.00145,0.117,-12.088,0.0705,107.747,0.159,72,225194
+65,Lavender Haze,Midnights,2022-10-21,1,5jQI2r1RdgtuT8S3iG8zFC,spotify:track:5jQI2r1RdgtuT8S3iG8zFC,0.258,0.733,0.436,0.000573,0.157,-10.489,0.08,96.985,0.0976,86,202395
+66,Maroon,Midnights,2022-10-21,2,3eX0NZfLtGzoLUxPNvRfqm,spotify:track:3eX0NZfLtGzoLUxPNvRfqm,0.0573,0.637,0.398,1.03e-06,0.101,-8.294,0.0564,108.075,0.0374,82,218270
+67,Anti-Hero,Midnights,2022-10-21,3,0V3wPSX9ygBnCm8psDIegu,spotify:track:0V3wPSX9ygBnCm8psDIegu,0.13,0.637,0.643,1.8e-06,0.142,-6.571,0.0519,97.008,0.533,93,200690
+68,Snow On The Beach (feat. Lana Del Rey),Midnights,2022-10-21,4,1wtOxkiel43cVs0Yux5Q4h,spotify:track:1wtOxkiel43cVs0Yux5Q4h,0.69,0.663,0.319,0.000993,0.117,-13.481,0.0375,109.957,0.193,80,256124
+69,"You're On Your Own, Kid",Midnights,2022-10-21,5,4D7BCuvgdJlYvlX5WlN54t,spotify:track:4D7BCuvgdJlYvlX5WlN54t,0.401,0.696,0.396,5.2e-06,0.125,-10.289,0.0656,120.041,0.38,85,194206
+70,Midnight Rain,Midnights,2022-10-21,6,3rWDp9tBPQR9z6U5YyRSK4,spotify:track:3rWDp9tBPQR9z6U5YyRSK4,0.69,0.643,0.363,5.17e-05,0.115,-11.738,0.0767,139.865,0.23,86,174782
+71,Question...?,Midnights,2022-10-21,7,0heeNYlwOGuUSe7TgUD27B,spotify:track:0heeNYlwOGuUSe7TgUD27B,0.2,0.751,0.502,0.0,0.296,-8.763,0.167,108.943,0.106,76,210556
+72,Vigilante Shit,Midnights,2022-10-21,8,1xwAWUI6Dj0WGC3KiUPN0O,spotify:track:1xwAWUI6Dj0WGC3KiUPN0O,0.173,0.798,0.277,5.25e-05,0.121,-11.096,0.39,79.846,0.163,81,164801
+73,Bejeweled,Midnights,2022-10-21,9,3qoftcUZaUOncvIYjFSPdE,spotify:track:3qoftcUZaUOncvIYjFSPdE,0.0618,0.696,0.559,5.58e-05,0.0887,-9.19,0.0693,163.999,0.433,85,194165
+74,Labyrinth,Midnights,2022-10-21,10,0A1JLUlkZkp2EFrosoNQi0,spotify:track:0A1JLUlkZkp2EFrosoNQi0,0.785,0.406,0.306,0.488,0.122,-15.48,0.0517,110.014,0.122,76,247962
+75,Karma,Midnights,2022-10-21,11,7KokYm8cMIXCsGVmUvKtqf,spotify:track:7KokYm8cMIXCsGVmUvKtqf,0.0734,0.642,0.62,0.0,0.483,-7.091,0.0666,90.02,0.0969,90,204852
+76,Sweet Nothing,Midnights,2022-10-21,12,0wavGRldH0AWyu2zvTz8zb,spotify:track:0wavGRldH0AWyu2zvTz8zb,0.964,0.337,0.156,7.72e-05,0.115,-14.919,0.0518,176.655,0.39,77,188496
+77,Mastermind,Midnights,2022-10-21,13,7FmYn9e7KHMXcxqGSj9LjH,spotify:track:7FmYn9e7KHMXcxqGSj9LjH,0.553,0.662,0.357,0.00129,0.0837,-14.064,0.154,125.966,0.124,79,191039
+78,State Of Grace (Taylor's Version),Red (Taylor's Version),2021-11-12,1,6lzc0Al0zfZOIFsFvBS1ki,spotify:track:6lzc0Al0zfZOIFsFvBS1ki,0.000328,0.594,0.713,0.0,0.114,-5.314,0.0503,129.958,0.328,73,295413
+79,Red (Taylor's Version),Red (Taylor's Version),2021-11-12,2,4OAuvHryIVv4kMDNSLuPt6,spotify:track:4OAuvHryIVv4kMDNSLuPt6,0.00108,0.516,0.777,1.62e-06,0.0761,-4.908,0.0375,125.047,0.408,81,223093
+80,Treacherous (Taylor's Version),Red (Taylor's Version),2021-11-12,3,3S7HNKPakdwNEBFIVTL6dZ,spotify:track:3S7HNKPakdwNEBFIVTL6dZ,0.0344,0.645,0.593,0.000127,0.13,-6.506,0.0288,109.984,0.299,73,242720
+81,I Knew You Were Trouble (Taylor's Version),Red (Taylor's Version),2021-11-12,4,6AtZLIzUINvExIUy4QhdjP,spotify:track:6AtZLIzUINvExIUy4QhdjP,0.0129,0.584,0.557,0.0,0.0576,-6.371,0.0342,154.008,0.767,81,219760
+82,All Too Well (Taylor's Version),Red (Taylor's Version),2021-11-12,5,3nsfB1vus2qaloUdcBZvDu,spotify:track:3nsfB1vus2qaloUdcBZvDu,0.0171,0.44,0.528,0.00203,0.234,-7.809,0.0317,185.972,0.132,78,329160
+83,22 (Taylor's Version),Red (Taylor's Version),2021-11-12,6,3yII7UwgLF6K5zW3xad3MP,spotify:track:3yII7UwgLF6K5zW3xad3MP,0.000443,0.642,0.695,1.02e-05,0.0753,-5.62,0.0281,103.984,0.642,80,230960
+84,I Almost Do (Taylor's Version),Red (Taylor's Version),2021-11-12,7,2r9CbjYgFhtAmcFv1cSquB,spotify:track:2r9CbjYgFhtAmcFv1cSquB,0.0167,0.511,0.559,0.0,0.113,-6.587,0.0264,145.88,0.248,72,244586
+85,We Are Never Ever Getting Back Together (Taylor's Version),Red (Taylor's Version),2021-11-12,8,5YqltLsjdqFtvqE7Nrysvs,spotify:track:5YqltLsjdqFtvqE7Nrysvs,0.0317,0.567,0.686,1.86e-06,0.0732,-6.139,0.175,172.014,0.716,81,193146
+86,Stay Stay Stay (Taylor's Version),Red (Taylor's Version),2021-11-12,9,7eQj6r5PIdYKEIZjucBMcq,spotify:track:7eQj6r5PIdYKEIZjucBMcq,0.0848,0.693,0.681,0.0,0.0768,-7.039,0.025,100.02,0.663,72,205786
+87,The Last Time (feat. Gary Lightbody of Snow Patrol) (Taylor’s Version),Red (Taylor's Version),2021-11-12,10,0y6kdSRCVQhSsHSpWvTUm7,spotify:track:0y6kdSRCVQhSsHSpWvTUm7,0.0399,0.502,0.534,0.0,0.0977,-5.954,0.0278,94.05,0.155,74,299080
+88,Holy Ground (Taylor's Version),Red (Taylor's Version),2021-11-12,11,7J4b3LVCIGO4CMBDFLPoP6,spotify:track:7J4b3LVCIGO4CMBDFLPoP6,0.0288,0.622,0.809,0.00218,0.109,-5.623,0.0638,156.894,0.511,71,202960
+89,Sad Beautiful Tragic (Taylor's Version),Red (Taylor's Version),2021-11-12,12,73qMN9bXy7MSPwwGfH3wQr,spotify:track:73qMN9bXy7MSPwwGfH3wQr,0.622,0.601,0.406,9.19e-05,0.133,-11.827,0.0275,130.059,0.232,73,284773
+90,The Lucky One (Taylor's Version),Red (Taylor's Version),2021-11-12,13,4e5ayHsOLJNLTGfjau2mEw,spotify:track:4e5ayHsOLJNLTGfjau2mEw,0.066,0.686,0.571,0.0,0.0608,-7.138,0.05,117.889,0.538,71,240466
+91,Everything Has Changed (feat. Ed Sheeran) (Taylor’s Version),Red (Taylor's Version),2021-11-12,14,7qEUFOVcxRI19tbT68JcYK,spotify:track:7qEUFOVcxRI19tbT68JcYK,0.271,0.498,0.61,0.0,0.223,-5.098,0.0363,79.918,0.474,77,245426
+92,Starlight (Taylor's Version),Red (Taylor's Version),2021-11-12,15,7A2cNLRT0YJc1yjxHlKihs,spotify:track:7A2cNLRT0YJc1yjxHlKihs,0.00324,0.628,0.685,0.0,0.18,-5.864,0.0358,126.014,0.605,70,220413
+93,Begin Again (Taylor's Version),Red (Taylor's Version),2021-11-12,16,05GsNucq8Bngd9fnd4fRa0,spotify:track:05GsNucq8Bngd9fnd4fRa0,0.075,0.519,0.527,0.0,0.132,-7.673,0.0274,78.915,0.267,73,238866
+94,The Moment I Knew (Taylor's Version),Red (Taylor's Version),2021-11-12,17,0NRHj8hDwwmSPaA41o379r,spotify:track:0NRHj8hDwwmSPaA41o379r,0.0494,0.636,0.402,0.0,0.107,-7.855,0.031,125.952,0.208,70,285280
+95,Come Back...Be Here (Taylor's Version),Red (Taylor's Version),2021-11-12,18,4pNApnaUWAL2J4KO2eqokq,spotify:track:4pNApnaUWAL2J4KO2eqokq,0.0158,0.46,0.632,0.0,0.0822,-6.031,0.0302,79.846,0.399,74,223333
+96,Girl At Home (Taylor's Version),Red (Taylor's Version),2021-11-12,19,0DMVrlMUn01M0IcpDbwgu7,spotify:track:0DMVrlMUn01M0IcpDbwgu7,0.00955,0.691,0.736,1.88e-05,0.101,-6.974,0.0326,125.089,0.612,69,220520
+97,State Of Grace (Acoustic Version) (Taylor's Version),Red (Taylor's Version),2021-11-12,20,5jAIouBES8LWMiriuNq170,spotify:track:5jAIouBES8LWMiriuNq170,0.663,0.445,0.131,1.57e-06,0.108,-13.778,0.0564,208.918,0.101,67,321640
+98,Ronan (Taylor's Version),Red (Taylor's Version),2021-11-12,21,7nWui6jiMM2m9qFmET1Mtj,spotify:track:7nWui6jiMM2m9qFmET1Mtj,0.661,0.623,0.279,0.0,0.193,-10.802,0.031,116.04,0.38,65,264253
+99,Better Man (Taylor's Version) (From The Vault),Red (Taylor's Version),2021-11-12,22,4OmFmE0fzcMG6g0Y8p4eSD,spotify:track:4OmFmE0fzcMG6g0Y8p4eSD,0.214,0.473,0.579,0.0,0.0877,-5.824,0.0384,73.942,0.255,74,297013
+100,Nothing New (feat. Phoebe Bridgers) (Taylor’s Version) (From The Vault),Red (Taylor's Version),2021-11-12,23,01K4zKU104LyJ8gMb7227B,spotify:track:01K4zKU104LyJ8gMb7227B,0.817,0.606,0.377,0.0,0.154,-9.455,0.0275,101.96,0.446,77,258812
+101,Babe (Taylor's Version) (From The Vault),Red (Taylor's Version),2021-11-12,24,0v4z1tuZvn6LGknom9Qx7d,spotify:track:0v4z1tuZvn6LGknom9Qx7d,0.0538,0.584,0.743,2.83e-06,0.121,-7.075,0.0931,167.844,0.746,74,224240
+102,Message In A Bottle (Taylor's Version) (From The Vault),Red (Taylor's Version),2021-11-12,25,3z6XUommYDWPHeFhmhhT6j,spotify:track:3z6XUommYDWPHeFhmhhT6j,0.00188,0.622,0.791,3.72e-06,0.083,-6.106,0.0535,115.915,0.494,75,225960
+103,I Bet You Think About Me (feat. Chris Stapleton) (Taylor’s Version) (From The Vault),Red (Taylor's Version),2021-11-12,26,4CkgMiMqZ5JzW9iYXSTMTL,spotify:track:4CkgMiMqZ5JzW9iYXSTMTL,0.167,0.391,0.715,0.0,0.183,-4.516,0.0495,149.654,0.473,77,285106
+104,Forever Winter (Taylor's Version) (From The Vault),Red (Taylor's Version),2021-11-12,27,3oGVx9RBmiYGv5ZCecWLkx,spotify:track:3oGVx9RBmiYGv5ZCecWLkx,0.256,0.611,0.552,0.0,0.134,-5.828,0.031,116.012,0.41,70,263533
+105,Run (feat. Ed Sheeran) (Taylor’s Version) (From The Vault),Red (Taylor's Version),2021-11-12,28,4IQkfUsrwXol38VV3U7t7T,spotify:track:4IQkfUsrwXol38VV3U7t7T,0.817,0.61,0.488,0.0,0.312,-6.918,0.0293,125.039,0.443,72,240226
+106,The Very First Night (Taylor's Version) (From The Vault),Red (Taylor's Version),2021-11-12,29,6pYNq0ZwpPVazKzsqpf0G8,spotify:track:6pYNq0ZwpPVazKzsqpf0G8,0.00115,0.678,0.733,0.0,0.104,-5.025,0.0281,121.009,0.581,77,200280
+107,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),Red (Taylor's Version),2021-11-12,30,5enxwA8aAbwZbf5qCHORXi,spotify:track:5enxwA8aAbwZbf5qCHORXi,0.274,0.631,0.518,0.0,0.088,-8.771,0.0303,93.023,0.205,87,613026
+108,Fearless (Taylor’s Version),Fearless (Taylor's Version),2021-04-09,1,77sMIMlNaSURUAXq5coCxE,spotify:track:77sMIMlNaSURUAXq5coCxE,0.0122,0.569,0.741,0.0,0.333,-4.963,0.0282,100.118,0.43,86,241591
+109,Fifteen (Taylor’s Version),Fearless (Taylor's Version),2021-04-09,2,2nqio0SfWg6gh2eCtfuMa5,spotify:track:2nqio0SfWg6gh2eCtfuMa5,0.116,0.559,0.646,0.0,0.32,-4.61,0.0272,95.466,0.289,74,294419
+110,Love Story (Taylor’s Version),Fearless (Taylor's Version),2021-04-09,3,6YvqWjhGD8mB5QXcbcUKtx,spotify:track:6YvqWjhGD8mB5QXcbcUKtx,0.13,0.627,0.792,3.97e-06,0.0845,-4.311,0.031,119.054,0.415,82,235766
+111,Hey Stephen (Taylor’s Version),Fearless (Taylor's Version),2021-04-09,4,550erGcdD9n6PnwxrvYqZT,spotify:track:550erGcdD9n6PnwxrvYqZT,0.106,0.788,0.571,0.0,0.0934,-6.135,0.0296,115.99,0.797,73,254254
+112,White Horse (Taylor’s Version),Fearless (Taylor's Version),2021-04-09,5,5YL553x8sHderRBDlm3NM3,spotify:track:5YL553x8sHderRBDlm3NM3,0.369,0.423,0.517,0.0,0.177,-7.377,0.0486,185.262,0.366,73,234515
+113,You Belong With Me (Taylor’s Version),Fearless (Taylor's Version),2021-04-09,6,1qrpoAMXodY6895hGKoUpA,spotify:track:1qrpoAMXodY6895hGKoUpA,0.0623,0.632,0.773,0.0,0.0885,-4.856,0.0346,130.033,0.474,87,231124
+114,Breathe (feat. Colbie Caillat) (Taylor’s Version),Fearless (Taylor's Version),2021-04-09,7,7HC7R2D8WjXVcUHJyEGjRs,spotify:track:7HC7R2D8WjXVcUHJyEGjRs,0.156,0.506,0.626,0.0,0.228,-6.066,0.0287,148.035,0.321,70,263377
+115,Tell Me Why (Taylor’s Version),Fearless (Taylor's Version),2021-04-09,8,0k0vFacOHNuArLWMiH60p7,spotify:track:0k0vFacOHNuArLWMiH60p7,0.0222,0.578,0.909,0.0,0.333,-3.669,0.0628,100.023,0.541,69,200575
+116,You’re Not Sorry (Taylor’s Version),Fearless (Taylor's Version),2021-04-09,9,6iiAfo4wTA2CVC3Uwx9uh8,spotify:track:6iiAfo4wTA2CVC3Uwx9uh8,0.0538,0.506,0.444,0.0,0.123,-4.99,0.0285,133.873,0.241,71,261842
+117,The Way I Loved You (Taylor’s Version),Fearless (Taylor's Version),2021-04-09,10,22bPsP2jCgbLUvh82U0Z3M,spotify:track:22bPsP2jCgbLUvh82U0Z3M,0.0033,0.402,0.732,0.0,0.108,-4.665,0.0484,161.032,0.472,85,243136
+118,Forever & Always (Taylor’s Version),Fearless (Taylor's Version),2021-04-09,11,1msEuwSBneBKpVCZQcFTsU,spotify:track:1msEuwSBneBKpVCZQcFTsU,0.0231,0.598,0.821,0.0,0.143,-4.433,0.0447,128.03,0.673,75,225328
+119,The Best Day (Taylor’s Version),Fearless (Taylor's Version),2021-04-09,12,6ON9UuIq49xXY9GPmHIYRp,spotify:track:6ON9UuIq49xXY9GPmHIYRp,0.488,0.642,0.576,0.0,0.159,-8.524,0.0282,125.0,0.469,68,245290
+120,Change (Taylor’s Version),Fearless (Taylor's Version),2021-04-09,13,3ExweHKZF9B752DPQByRVT,spotify:track:3ExweHKZF9B752DPQByRVT,0.000191,0.499,0.815,0.0,0.181,-4.063,0.0341,95.999,0.344,67,279359
+121,Jump Then Fall (Taylor’s Version),Fearless (Taylor's Version),2021-04-09,14,2m3ObD945KvpE5y9A1eUWm,spotify:track:2m3ObD945KvpE5y9A1eUWm,0.0474,0.572,0.69,0.0,0.0897,-6.201,0.0358,160.111,0.624,69,237580
+122,Untouchable (Taylor’s Version),Fearless (Taylor's Version),2021-04-09,15,0tQ9vBYpldCuikPsbgOVKA,spotify:track:0tQ9vBYpldCuikPsbgOVKA,0.0181,0.393,0.531,0.0,0.169,-6.112,0.0329,200.391,0.224,69,312107
+123,Forever & Always (Piano Version) (Taylor’s Version),Fearless (Taylor's Version),2021-04-09,16,01QdEx6kFr78ZejhQtWR5m,spotify:track:01QdEx6kFr78ZejhQtWR5m,0.819,0.546,0.273,0.0,0.137,-9.208,0.0308,118.753,0.271,68,267833
+124,Come In With The Rain (Taylor’s Version),Fearless (Taylor's Version),2021-04-09,17,1n2wszmJyVkw6FHqyLnQsY,spotify:track:1n2wszmJyVkw6FHqyLnQsY,0.0406,0.476,0.564,0.0,0.102,-5.677,0.0269,143.929,0.167,67,237338
+125,Superstar (Taylor’s Version),Fearless (Taylor's Version),2021-04-09,18,51A8eKvvZz9uydvIZ7xRSV,spotify:track:51A8eKvvZz9uydvIZ7xRSV,0.157,0.454,0.555,0.0,0.343,-6.69,0.0283,171.862,0.171,66,263865
+126,The Other Side Of The Door (Taylor’s Version),Fearless (Taylor's Version),2021-04-09,19,1cSFlSBdpT4F5vb1frQ231,spotify:track:1cSFlSBdpT4F5vb1frQ231,0.0279,0.432,0.873,0.0,0.167,-4.367,0.0577,163.936,0.629,71,238443
+127,Today Was A Fairytale (Taylor’s Version),Fearless (Taylor's Version),2021-04-09,20,2JoJrsEV15OzbijS47lids,spotify:track:2JoJrsEV15OzbijS47lids,0.0135,0.482,0.779,0.0,0.296,-5.025,0.0409,158.162,0.328,69,241822
+128,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),Fearless (Taylor's Version),2021-04-09,21,4CHpVfAhuxNJ3ibExe6kxO,spotify:track:4CHpVfAhuxNJ3ibExe6kxO,0.816,0.599,0.494,0.0,0.101,-7.61,0.0372,142.893,0.44,66,220839
+129,Mr. Perfectly Fine (Taylor’s Version) (From The Vault),Fearless (Taylor's Version),2021-04-09,22,2CYVETnhM9aytqrazYYwrK,spotify:track:2CYVETnhM9aytqrazYYwrK,0.162,0.66,0.817,0.0,0.0667,-6.269,0.0521,135.942,0.714,78,277591
+130,We Were Happy (Taylor’s Version) (From The Vault),Fearless (Taylor's Version),2021-04-09,23,34V9RiEPe8MNdU32qJsJa1,spotify:track:34V9RiEPe8MNdU32qJsJa1,0.849,0.609,0.373,0.0,0.0779,-8.819,0.0263,106.007,0.13,69,244236
+131,That’s When (feat. Keith Urban) (Taylor’s Version) (From The Vault),Fearless (Taylor's Version),2021-04-09,24,7eResoqEJJAVTkQYSqvO3P,spotify:track:7eResoqEJJAVTkQYSqvO3P,0.225,0.588,0.608,0.0,0.092,-7.062,0.0365,90.201,0.508,70,189495
+132,Don’t You (Taylor’s Version) (From The Vault),Fearless (Taylor's Version),2021-04-09,25,4uuEGH5SVuzkkSFjo2DEiY,spotify:track:4uuEGH5SVuzkkSFjo2DEiY,0.514,0.563,0.473,1.2e-05,0.109,-11.548,0.0503,101.934,0.405,70,208608
+133,Bye Bye Baby (Taylor’s Version) (From The Vault),Fearless (Taylor's Version),2021-04-09,26,4qUijfYU8EoIWiY6oSyrgT,spotify:track:4qUijfYU8EoIWiY6oSyrgT,0.334,0.624,0.624,0.0,0.0995,-7.86,0.0539,80.132,0.527,69,242157
+134,willow,evermore (deluxe version),2021-01-07,1,2gVhfX2Gy1T9kDuS9azrF7,spotify:track:2gVhfX2Gy1T9kDuS9azrF7,0.833,0.392,0.574,0.00179,0.145,-9.195,0.17,81.112,0.529,74,214706
+135,champagne problems,evermore (deluxe version),2021-01-07,2,1gcyHQpBQ1lfXGdhZmWrHP,spotify:track:1gcyHQpBQ1lfXGdhZmWrHP,0.92,0.462,0.24,0.0,0.113,-12.077,0.0377,171.319,0.32,75,244000
+136,gold rush,evermore (deluxe version),2021-01-07,3,3Dby3p1m6IOZn2gIIqECgK,spotify:track:3Dby3p1m6IOZn2gIIqECgK,0.83,0.512,0.462,0.166,0.121,-10.491,0.0408,112.05,0.353,72,185320
+137,‘tis the damn season,evermore (deluxe version),2021-01-07,4,6sQckd3Z8NPxVVKUnavY1F,spotify:track:6sQckd3Z8NPxVVKUnavY1F,0.735,0.575,0.434,6.59e-05,0.105,-8.193,0.0312,145.916,0.348,73,229840
+138,tolerate it,evermore (deluxe version),2021-01-07,5,6lCvK2AR2uOKkVFCVlAzzm,spotify:track:6lCvK2AR2uOKkVFCVlAzzm,0.878,0.316,0.361,2.67e-05,0.0797,-10.381,0.0488,74.952,0.221,73,245440
+139,"no body, no crime (feat. HAIM)",evermore (deluxe version),2021-01-07,6,6uwfVkaOM1mcMkFmSn35ix,spotify:track:6uwfVkaOM1mcMkFmSn35ix,0.418,0.546,0.613,0.0,0.103,-7.589,0.0264,79.015,0.535,72,215626
+140,happiness,evermore (deluxe version),2021-01-07,7,55Vf4bimc1Rtfg0PAQRAo2,spotify:track:55Vf4bimc1Rtfg0PAQRAo2,0.87,0.559,0.334,0.0,0.114,-10.733,0.0376,122.079,0.211,70,315146
+141,dorothea,evermore (deluxe version),2021-01-07,8,66tOfHVH3aUrscg8vExRV4,spotify:track:66tOfHVH3aUrscg8vExRV4,0.696,0.605,0.488,0.0,0.129,-8.322,0.0264,119.966,0.354,70,225880
+142,coney island (feat. The National),evermore (deluxe version),2021-01-07,9,2awNGIJHodfLZSClB3PYhz,spotify:track:2awNGIJHodfLZSClB3PYhz,0.819,0.537,0.537,0.000904,0.142,-11.266,0.0617,107.895,0.292,70,275320
+143,ivy,evermore (deluxe version),2021-01-07,10,43Ykum9T72UOPhBN31grpN,spotify:track:43Ykum9T72UOPhBN31grpN,0.855,0.515,0.545,1.97e-05,0.0921,-9.277,0.0353,88.856,0.535,71,260440
+144,cowboy like me,evermore (deluxe version),2021-01-07,11,52OkpDsU6MmPx1AwGOb6Ap,spotify:track:52OkpDsU6MmPx1AwGOb6Ap,0.768,0.604,0.517,0.000155,0.123,-9.014,0.0347,127.967,0.511,71,275040
+145,long story short,evermore (deluxe version),2021-01-07,12,5VYWxXUpxuxEmCqMLDqICo,spotify:track:5VYWxXUpxuxEmCqMLDqICo,0.66,0.546,0.73,0.179,0.0972,-7.704,0.0417,157.895,0.573,70,215920
+146,marjorie,evermore (deluxe version),2021-01-07,13,5uICWmZTLkpEVbK22PBP6e,spotify:track:5uICWmZTLkpEVbK22PBP6e,0.876,0.535,0.561,0.000136,0.115,-11.609,0.0484,96.103,0.287,70,257773
+147,closure,evermore (deluxe version),2021-01-07,14,6a8aUhYbaQBUI8PcJ5ZmQ6,spotify:track:6a8aUhYbaQBUI8PcJ5ZmQ6,0.835,0.689,0.704,4.83e-06,0.134,-10.813,0.245,151.884,0.92,68,180653
+148,evermore (feat. Bon Iver),evermore (deluxe version),2021-01-07,15,6Wlq9rqkxrqj5Kls4Kw14H,spotify:track:6Wlq9rqkxrqj5Kls4Kw14H,0.937,0.39,0.27,0.00227,0.111,-10.673,0.0308,125.177,0.32,71,304106
+149,right where you left me - bonus track,evermore (deluxe version),2021-01-07,16,3zwMVvkBe2qIKDObWgXw4N,spotify:track:3zwMVvkBe2qIKDObWgXw4N,0.769,0.581,0.619,0.000106,0.117,-6.524,0.0282,137.915,0.645,81,245026
+150,it’s time to go - bonus track,evermore (deluxe version),2021-01-07,17,1kdWw77ZpYOkhxeuhzU1j6,spotify:track:1kdWw77ZpYOkhxeuhzU1j6,0.801,0.592,0.41,1.39e-05,0.09,-12.426,0.0397,151.923,0.416,73,254640
+151,willow,evermore,2020-12-11,1,0lx2cLdOt3piJbcaXIV74f,spotify:track:0lx2cLdOt3piJbcaXIV74f,0.833,0.392,0.574,0.00179,0.145,-9.195,0.17,81.112,0.529,82,214706
+152,champagne problems,evermore,2020-12-11,2,0sY6ZUTh4yoctD8VIXz339,spotify:track:0sY6ZUTh4yoctD8VIXz339,0.92,0.462,0.24,0.0,0.113,-12.077,0.0377,171.319,0.32,82,244000
+153,gold rush,evermore,2020-12-11,3,5BK0uqwY9DNfZ630STAEaq,spotify:track:5BK0uqwY9DNfZ630STAEaq,0.83,0.512,0.462,0.166,0.121,-10.491,0.0408,112.05,0.353,75,185320
+154,‘tis the damn season,evermore,2020-12-11,4,7dW84mWkdWE5a6lFWxJCBG,spotify:track:7dW84mWkdWE5a6lFWxJCBG,0.735,0.575,0.434,6.59e-05,0.105,-8.193,0.0312,145.916,0.348,76,229840
+155,tolerate it,evermore,2020-12-11,5,0PurA4JVJ8YQgSVopY8fn6,spotify:track:0PurA4JVJ8YQgSVopY8fn6,0.878,0.316,0.361,2.67e-05,0.0797,-10.381,0.0488,74.952,0.221,78,245440
+156,"no body, no crime (feat. HAIM)",evermore,2020-12-11,6,3RaT22zZsxVYxxKR7TAaYF,spotify:track:3RaT22zZsxVYxxKR7TAaYF,0.418,0.546,0.613,0.0,0.103,-7.589,0.0264,79.015,0.535,75,215626
+157,happiness,evermore,2020-12-11,7,73YUReisjb3A9ActdLLjJQ,spotify:track:73YUReisjb3A9ActdLLjJQ,0.87,0.559,0.334,0.0,0.114,-10.733,0.0376,122.079,0.211,70,315146
+158,dorothea,evermore,2020-12-11,8,670fUmXf4KQekzbEgaXyPA,spotify:track:670fUmXf4KQekzbEgaXyPA,0.696,0.605,0.488,0.0,0.129,-8.322,0.0264,119.966,0.354,69,225880
+159,coney island (feat. The National),evermore,2020-12-11,9,3k7ne7VmH43ZPWxPdvPUgR,spotify:track:3k7ne7VmH43ZPWxPdvPUgR,0.819,0.537,0.537,0.000904,0.142,-11.266,0.0617,107.895,0.292,69,275320
+160,ivy,evermore,2020-12-11,10,19CSr8rwW05VJL2F91KFNK,spotify:track:19CSr8rwW05VJL2F91KFNK,0.855,0.515,0.545,1.97e-05,0.0921,-9.277,0.0353,88.856,0.535,73,260440
+161,cowboy like me,evermore,2020-12-11,11,1XjHRolIXL2M1EEOUsGGR4,spotify:track:1XjHRolIXL2M1EEOUsGGR4,0.768,0.604,0.517,0.000155,0.123,-9.014,0.0347,127.967,0.511,72,275040
+162,long story short,evermore,2020-12-11,12,2o2sgVJIgFXk8GQjWTgI6U,spotify:track:2o2sgVJIgFXk8GQjWTgI6U,0.66,0.546,0.73,0.179,0.0972,-7.704,0.0417,157.895,0.573,69,215920
+163,marjorie,evermore,2020-12-11,13,12ntTeqEeTg7GAVpe8Mhpl,spotify:track:12ntTeqEeTg7GAVpe8Mhpl,0.876,0.535,0.561,0.000136,0.115,-11.609,0.0484,96.103,0.287,75,257773
+164,closure,evermore,2020-12-11,14,35rdVq36LMHQX0Suw9a6tK,spotify:track:35rdVq36LMHQX0Suw9a6tK,0.835,0.689,0.704,4.83e-06,0.134,-10.813,0.245,151.884,0.92,67,180653
+165,evermore (feat. Bon Iver),evermore,2020-12-11,15,3O5osWf1rSoKMwe6E9ZaXP,spotify:track:3O5osWf1rSoKMwe6E9ZaXP,0.937,0.39,0.27,0.00227,0.111,-10.673,0.0308,125.177,0.32,70,304106
+166,the 1,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,1,0P9wLFurlgumLXuqFEpw52,spotify:track:0P9wLFurlgumLXuqFEpw52,0.75,0.78,0.361,7.14e-06,0.108,-6.942,0.048,139.902,0.163,56,210240
+167,cardigan,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,2,7zcnlq38eqNWyUF6eNaB5Z,spotify:track:7zcnlq38eqNWyUF6eNaB5Z,0.525,0.612,0.58,0.000414,0.26,-8.572,0.0419,130.045,0.534,57,239560
+168,the last great american dynasty,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,3,4ojxSyrEraN7d46BMBPThZ,spotify:track:4ojxSyrEraN7d46BMBPThZ,0.481,0.688,0.653,0.00414,0.106,-8.558,0.0403,147.991,0.701,55,231000
+169,exile (feat. Bon Iver),folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,4,6kz2hkq1xQvDqPcUyBkw8f,spotify:track:6kz2hkq1xQvDqPcUyBkw8f,0.761,0.31,0.374,2.46e-05,0.11,-8.464,0.0275,75.938,0.16,56,285640
+170,my tears ricochet,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,5,0Oju1YcbPCJuUQQWoZNdJK,spotify:track:0Oju1YcbPCJuUQQWoZNdJK,0.814,0.456,0.265,0.0,0.0679,-10.663,0.0328,129.947,0.112,55,255893
+171,mirrorball,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,6,5jQyGzcwqAxwT5QUIMivoX,spotify:track:5jQyGzcwqAxwT5QUIMivoX,0.686,0.549,0.417,1.9e-06,0.0604,-10.064,0.035,110.137,0.347,54,208973
+172,seven,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,7,2vJ7QvyCiR4DaHxwO58izA,spotify:track:2vJ7QvyCiR4DaHxwO58izA,0.888,0.602,0.494,2.59e-05,0.0902,-10.813,0.0277,94.955,0.374,54,208906
+173,august,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,8,1UHoF9p75IVsvUt6WdTYhn,spotify:track:1UHoF9p75IVsvUt6WdTYhn,0.553,0.387,0.634,6.93e-05,0.0931,-9.222,0.0363,89.567,0.42,58,261920
+174,this is me trying,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,9,5DnDBYrfGoxdnomqEAkFIv,spotify:track:5DnDBYrfGoxdnomqEAkFIv,0.312,0.511,0.478,2.3e-05,0.147,-9.837,0.0322,135.882,0.408,54,195106
+175,illicit affairs,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,10,7CVTowKpGPA2MsIbkTl2oc,spotify:track:7CVTowKpGPA2MsIbkTl2oc,0.862,0.529,0.304,0.0,0.108,-10.567,0.0356,119.58,0.44,54,190893
+176,invisible string,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,11,4WHIqhrbdva5vQSrCuet3l,spotify:track:4WHIqhrbdva5vQSrCuet3l,0.859,0.651,0.459,6.63e-05,0.105,-11.128,0.0507,83.455,0.454,55,252880
+177,mad woman,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,12,7klXN6RCN5Rj0VeYO5gBzU,spotify:track:7klXN6RCN5Rj0VeYO5gBzU,0.67,0.593,0.7,6.77e-06,0.116,-9.016,0.0492,141.898,0.451,52,237266
+178,epiphany,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,13,5MFjHn1qfR9AsWuyzJLk1z,spotify:track:5MFjHn1qfR9AsWuyzJLk1z,0.727,0.317,0.254,0.000326,0.0867,-13.679,0.0286,93.933,0.103,51,289746
+179,betty,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,14,2jhfs6moEAK13eLM6xim4l,spotify:track:2jhfs6moEAK13eLM6xim4l,0.589,0.595,0.376,0.0,0.0989,-8.767,0.0256,95.946,0.476,53,294520
+180,peace,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,15,0O9i6jhscByEJs1ipy5hu4,spotify:track:0O9i6jhscByEJs1ipy5hu4,0.916,0.644,0.284,1.5e-05,0.0909,-12.879,0.0821,150.072,0.328,51,234000
+181,hoax,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,16,4XCYmu7QLySdIahgBALKJK,spotify:track:4XCYmu7QLySdIahgBALKJK,0.964,0.676,0.178,7.9e-06,0.135,-15.01,0.0394,118.84,0.404,50,220040
+182,the lakes - bonus track,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,17,0zEprKYeuGOIZoHyu6O1E2,spotify:track:0zEprKYeuGOIZoHyu6O1E2,0.842,0.313,0.258,1.3e-06,0.0948,-11.532,0.0383,179.947,0.268,52,211813
+183,the 1 - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,1,08J4bMHbILkwSIhbtrcvjN,spotify:track:08J4bMHbILkwSIhbtrcvjN,0.898,0.708,0.25,0.026,0.102,-10.731,0.0361,139.803,0.156,61,219893
+184,cardigan - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,2,3EPgWM1zfTSzEc0z4AwWTM,spotify:track:3EPgWM1zfTSzEc0z4AwWTM,0.88,0.395,0.234,0.0,0.107,-9.704,0.0382,86.478,0.247,63,230680
+185,the last great american dynasty - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,3,28tIMaewZuGR8urkvFhQyA,spotify:track:28tIMaewZuGR8urkvFhQyA,0.743,0.64,0.618,0.004,0.0574,-11.715,0.0379,147.948,0.614,59,232346
+186,exile (feat. Bon Iver) - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,4,7N015NTIWGjQDddHUdHPoO,spotify:track:7N015NTIWGjQDddHUdHPoO,0.848,0.359,0.305,6.74e-05,0.111,-10.295,0.0306,151.956,0.108,60,279893
+187,my tears ricochet - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,5,5mdNyCS7ttVcAyVYOIFEjs,spotify:track:5mdNyCS7ttVcAyVYOIFEjs,0.946,0.531,0.172,1.01e-05,0.0615,-12.34,0.0351,129.007,0.168,62,295173
+188,mirrorball - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,6,2yceD2hx5HhOLgkm1CITCi,spotify:track:2yceD2hx5HhOLgkm1CITCi,0.78,0.509,0.386,3.45e-05,0.118,-8.434,0.0272,109.993,0.109,60,237373
+189,seven - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,7,4cOWq0cVsKjxaQpRMbDoH1,spotify:track:4cOWq0cVsKjxaQpRMbDoH1,0.914,0.694,0.449,0.000126,0.1,-11.49,0.0301,94.963,0.363,59,208986
+190,august - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,8,4MGexoZc12lqE0hYkq9YYx,spotify:track:4MGexoZc12lqE0hYkq9YYx,0.5,0.554,0.663,4.77e-05,0.791,-8.961,0.0324,89.977,0.545,63,260000
+191,this is me trying - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,9,1gaLZjPrDnHQWJds2Jg4KT,spotify:track:1gaLZjPrDnHQWJds2Jg4KT,0.928,0.435,0.332,0.000898,0.0867,-11.611,0.031,68.097,0.157,62,209293
+192,illicit affairs - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,10,560uQyz3p5G9WdnMX39xc6,spotify:track:560uQyz3p5G9WdnMX39xc6,0.883,0.489,0.235,0.0,0.113,-10.274,0.0356,117.699,0.435,60,183720
+193,invisible string - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,11,5KByGq0JijSSDcy0qzuINs,spotify:track:5KByGq0JijSSDcy0qzuINs,0.942,0.59,0.282,4.85e-06,0.11,-10.542,0.0281,83.438,0.351,59,257359
+194,mad woman - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,12,04xrhDrQ2WOW8GLwu7kbc0,spotify:track:04xrhDrQ2WOW8GLwu7kbc0,0.887,0.663,0.465,0.000168,0.109,-10.463,0.0408,141.834,0.346,57,238333
+195,epiphany - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,13,4yyKppX85ZkmlGOC2toBZA,spotify:track:4yyKppX85ZkmlGOC2toBZA,0.916,0.524,0.2,0.000392,0.068,-13.004,0.0274,93.87,0.113,57,274880
+196,betty - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,14,1mh5dObNoOvCfHmXnhvDEK,spotify:track:1mh5dObNoOvCfHmXnhvDEK,0.841,0.538,0.316,0.0,0.119,-9.5,0.0299,95.68,0.518,58,290040
+197,peace - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,15,4YHHz3VIXgNDGdoL9xC1tx,spotify:track:4YHHz3VIXgNDGdoL9xC1tx,0.93,0.619,0.344,7.61e-05,0.0734,-11.472,0.0647,149.897,0.513,57,214373
+198,hoax - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,16,0QTBsdoJhamY3Aid3fOsOd,spotify:track:0QTBsdoJhamY3Aid3fOsOd,0.962,0.682,0.155,0.0,0.18,-13.083,0.0394,118.832,0.483,58,221800
+199,the lakes - the long pond studio sessions,folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,17,6mqyTq948oap5AkyTsd6XF,spotify:track:6mqyTq948oap5AkyTsd6XF,0.794,0.606,0.221,0.0,0.0888,-11.767,0.0468,89.844,0.112,60,199733
+200,the 1,folklore (deluxe version),2020-08-18,1,4pfrrhvplbJZAIsfosGWQP,spotify:track:4pfrrhvplbJZAIsfosGWQP,0.75,0.78,0.361,7.14e-06,0.108,-6.942,0.048,139.902,0.163,76,210240
+201,cardigan,folklore (deluxe version),2020-08-18,2,0KRYCBwIpWYFNrXOmXbyUh,spotify:track:0KRYCBwIpWYFNrXOmXbyUh,0.525,0.612,0.58,0.000414,0.26,-8.572,0.0419,130.045,0.534,76,239560
+202,the last great american dynasty,folklore (deluxe version),2020-08-18,3,2olxzvoFI9IpxqFeUv7WOX,spotify:track:2olxzvoFI9IpxqFeUv7WOX,0.481,0.688,0.653,0.00414,0.106,-8.558,0.0403,147.991,0.701,74,231000
+203,exile (feat. Bon Iver),folklore (deluxe version),2020-08-18,4,5S4aYQAJOwJMAamANWlICO,spotify:track:5S4aYQAJOwJMAamANWlICO,0.761,0.31,0.374,2.46e-05,0.11,-8.464,0.0275,75.938,0.16,75,285640
+204,my tears ricochet,folklore (deluxe version),2020-08-18,5,5P2bHCDM2tsgIaYWsZMhu5,spotify:track:5P2bHCDM2tsgIaYWsZMhu5,0.814,0.456,0.265,0.0,0.0679,-10.663,0.0328,129.947,0.112,75,255893
+205,mirrorball,folklore (deluxe version),2020-08-18,6,2I8YAEA1VmCuP1wkJHMpTw,spotify:track:2I8YAEA1VmCuP1wkJHMpTw,0.686,0.549,0.417,1.9e-06,0.0604,-10.064,0.035,110.137,0.347,74,208973
+206,seven,folklore (deluxe version),2020-08-18,7,76mOLcXOjOEhyY4mMF1l3r,spotify:track:76mOLcXOjOEhyY4mMF1l3r,0.888,0.602,0.494,2.59e-05,0.0902,-10.813,0.0277,94.955,0.374,74,208906
+207,august,folklore (deluxe version),2020-08-18,8,6nK2pIKFcRc5frrZKHgsiT,spotify:track:6nK2pIKFcRc5frrZKHgsiT,0.553,0.387,0.634,6.93e-05,0.0931,-9.222,0.0363,89.567,0.42,77,261920
+208,this is me trying,folklore (deluxe version),2020-08-18,9,7cm50Lw03k6VvRauJtkyTj,spotify:track:7cm50Lw03k6VvRauJtkyTj,0.312,0.511,0.478,2.3e-05,0.147,-9.837,0.0322,135.882,0.408,74,195106
+209,illicit affairs,folklore (deluxe version),2020-08-18,10,6DrLROM5MG9bxWHeEG5elq,spotify:track:6DrLROM5MG9bxWHeEG5elq,0.862,0.529,0.304,0.0,0.108,-10.567,0.0356,119.58,0.44,74,190893
+210,invisible string,folklore (deluxe version),2020-08-18,11,2ehRU518I0hYqMGQnk4lDY,spotify:track:2ehRU518I0hYqMGQnk4lDY,0.859,0.651,0.459,6.63e-05,0.105,-11.128,0.0507,83.455,0.454,74,252880
+211,mad woman,folklore (deluxe version),2020-08-18,12,0RP1kqoSPkVXsKiQNhMKzV,spotify:track:0RP1kqoSPkVXsKiQNhMKzV,0.67,0.593,0.7,6.77e-06,0.116,-9.016,0.0492,141.898,0.451,72,237266
+212,epiphany,folklore (deluxe version),2020-08-18,13,1EXa37LpSvi3OQ9UYQ28rD,spotify:track:1EXa37LpSvi3OQ9UYQ28rD,0.727,0.317,0.254,0.000326,0.0867,-13.679,0.0286,93.933,0.103,71,289746
+213,betty,folklore (deluxe version),2020-08-18,14,3IhtE4fkytdrtEfV34UzkD,spotify:track:3IhtE4fkytdrtEfV34UzkD,0.589,0.595,0.376,0.0,0.0989,-8.767,0.0256,95.946,0.476,73,294520
+214,peace,folklore (deluxe version),2020-08-18,15,6JlI8Ay77m4nJvZTHvfT1J,spotify:track:6JlI8Ay77m4nJvZTHvfT1J,0.916,0.644,0.284,1.5e-05,0.0909,-12.879,0.0821,150.072,0.328,71,234000
+215,hoax,folklore (deluxe version),2020-08-18,16,0YeDG5HnKnG7jpArkzsSPa,spotify:track:0YeDG5HnKnG7jpArkzsSPa,0.964,0.676,0.178,7.9e-06,0.135,-15.01,0.0394,118.84,0.404,70,220040
+216,the lakes - bonus track,folklore (deluxe version),2020-08-18,17,0eFQWVz0qIxDOvhLpZ40P7,spotify:track:0eFQWVz0qIxDOvhLpZ40P7,0.842,0.313,0.258,1.3e-06,0.0948,-11.532,0.0383,179.947,0.268,74,211813
+217,the 1,folklore,2020-07-24,1,0Jlcvv8IykzHaSmj49uNW8,spotify:track:0Jlcvv8IykzHaSmj49uNW8,0.757,0.777,0.357,7.28e-06,0.108,-6.942,0.0522,139.883,0.172,82,210251
+218,cardigan,folklore,2020-07-24,2,4R2kfaDFhslZEMJqAFNpdd,spotify:track:4R2kfaDFhslZEMJqAFNpdd,0.537,0.613,0.581,0.000345,0.25,-8.588,0.0424,130.033,0.551,91,239560
+219,the last great american dynasty,folklore,2020-07-24,3,2Eeur20xVqfUoM3Q7EFPFt,spotify:track:2Eeur20xVqfUoM3Q7EFPFt,0.467,0.686,0.662,0.0023,0.109,-8.505,0.0413,147.922,0.706,78,230999
+220,exile (feat. Bon Iver),folklore,2020-07-24,4,4pvb0WLRcMtbPGmtejJJ6y,spotify:track:4pvb0WLRcMtbPGmtejJJ6y,0.778,0.298,0.38,5.62e-05,0.11,-8.426,0.0287,75.602,0.152,83,285634
+221,my tears ricochet,folklore,2020-07-24,5,1MgV7FIyNxIG7WzMRJV5HC,spotify:track:1MgV7FIyNxIG7WzMRJV5HC,0.806,0.456,0.263,0.0,0.0749,-10.63,0.0332,129.86,0.111,81,255893
+222,mirrorball,folklore,2020-07-24,6,0ZNU020wNYvgW84iljPkPP,spotify:track:0ZNU020wNYvgW84iljPkPP,0.687,0.553,0.413,2.33e-06,0.0594,-10.037,0.0334,110.107,0.379,81,208977
+223,seven,folklore,2020-07-24,7,6KJqZcs9XDgVck7Lg9QOTC,spotify:track:6KJqZcs9XDgVck7Lg9QOTC,0.9,0.596,0.488,2.7e-05,0.091,-10.769,0.0274,94.926,0.415,78,208906
+224,august,folklore,2020-07-24,8,3hUxzQpSfdDqwM3ZTFQY0K,spotify:track:3hUxzQpSfdDqwM3ZTFQY0K,0.538,0.532,0.623,7.28e-05,0.0925,-9.208,0.0331,89.937,0.403,93,261922
+225,this is me trying,folklore,2020-07-24,9,7kt9e9LFSpN1zQtYEl19o1,spotify:track:7kt9e9LFSpN1zQtYEl19o1,0.314,0.515,0.476,4.74e-05,0.171,-9.843,0.0328,135.886,0.412,80,195097
+226,illicit affairs,folklore,2020-07-24,10,2NmsngXHeC1GQ9wWrzhOMf,spotify:track:2NmsngXHeC1GQ9wWrzhOMf,0.881,0.559,0.31,0.0,0.106,-10.445,0.0338,119.845,0.46,81,190898
+227,invisible string,folklore,2020-07-24,11,6VsvKPJ4xjVNKpI8VVZ3SV,spotify:track:6VsvKPJ4xjVNKpI8VVZ3SV,0.838,0.653,0.452,7.73e-05,0.108,-11.143,0.055,83.433,0.45,79,252880
+228,mad woman,folklore,2020-07-24,12,2QDyYdZyhlP2fp79KZX8Bi,spotify:track:2QDyYdZyhlP2fp79KZX8Bi,0.655,0.592,0.699,1.68e-05,0.114,-8.995,0.0471,141.916,0.506,73,237258
+229,epiphany,folklore,2020-07-24,13,08fa9LFcFBTcilB3iq2e2A,spotify:track:08fa9LFcFBTcilB3iq2e2A,0.731,0.354,0.267,0.000402,0.0858,-13.69,0.0281,94.219,0.113,71,289749
+230,betty,folklore,2020-07-24,14,5kI4eCXXzyuIUXjQra0Cxi,spotify:track:5kI4eCXXzyuIUXjQra0Cxi,0.6,0.593,0.377,0.0,0.0976,-8.761,0.0253,95.939,0.502,79,294521
+231,peace,folklore,2020-07-24,15,7MbT4I8qGntX4fMdqMQgke,spotify:track:7MbT4I8qGntX4fMdqMQgke,0.918,0.647,0.272,1.73e-05,0.0918,-12.906,0.0916,150.044,0.339,73,234000
+232,hoax,folklore,2020-07-24,16,6MWoRt97mnSTXZhu3ggi9C,spotify:track:6MWoRt97mnSTXZhu3ggi9C,0.966,0.662,0.181,3.86e-06,0.133,-15.065,0.0415,118.819,0.429,72,220042
+233,I Forgot That You Existed,Lover,2019-08-23,1,43rA71bccXFGD4C8GOpIlN,spotify:track:43rA71bccXFGD4C8GOpIlN,0.298,0.664,0.316,2.03e-06,0.0812,-10.345,0.519,92.875,0.541,79,170640
+234,Cruel Summer,Lover,2019-08-23,2,1BxfuPKGuaTgP7aM0Bbdwr,spotify:track:1BxfuPKGuaTgP7aM0Bbdwr,0.117,0.552,0.702,2.06e-05,0.105,-5.707,0.157,169.994,0.564,100,178426
+235,Lover,Lover,2019-08-23,3,1dGr1c8CrMLDpV6mPbImSI,spotify:track:1dGr1c8CrMLDpV6mPbImSI,0.492,0.359,0.543,1.58e-05,0.118,-7.582,0.0919,68.534,0.453,91,221306
+236,The Man,Lover,2019-08-23,4,3RauEVgRgj1IuWdJ9fDs70,spotify:track:3RauEVgRgj1IuWdJ9fDs70,0.0767,0.777,0.658,0.0,0.0901,-5.191,0.054,110.048,0.633,87,190360
+237,The Archer,Lover,2019-08-23,5,3pHkh7d0lzM2AldUtz2x37,spotify:track:3pHkh7d0lzM2AldUtz2x37,0.12,0.292,0.574,0.00569,0.0663,-9.375,0.0401,124.344,0.166,83,211240
+238,I Think He Knows,Lover,2019-08-23,6,2YWtcWi3a83pdEg3Gif4Pd,spotify:track:2YWtcWi3a83pdEg3Gif4Pd,0.00889,0.897,0.366,0.000353,0.0715,-8.029,0.0569,100.003,0.416,80,173386
+239,Miss Americana & The Heartbreak Prince,Lover,2019-08-23,7,214nt20w5wOxJnY462klLw,spotify:track:214nt20w5wOxJnY462klLw,0.028,0.662,0.747,0.00615,0.138,-6.926,0.0736,150.088,0.487,84,234146
+240,Paper Rings,Lover,2019-08-23,8,4y5bvROuBDPr5fuwXbIBZR,spotify:track:4y5bvROuBDPr5fuwXbIBZR,0.0129,0.811,0.719,1.36e-05,0.0742,-6.553,0.0497,103.979,0.865,87,222400
+241,Cornelia Street,Lover,2019-08-23,9,12M5uqx0ZuwkpLp5rJim1a,spotify:track:12M5uqx0ZuwkpLp5rJim1a,0.781,0.824,0.624,0.000189,0.1,-9.728,0.0827,102.012,0.248,82,287266
+242,Death By A Thousand Cuts,Lover,2019-08-23,10,2dgFqt3w9xIQRjhPtwNk3D,spotify:track:2dgFqt3w9xIQRjhPtwNk3D,0.454,0.712,0.732,0.0,0.319,-6.754,0.0629,94.071,0.313,81,198533
+243,London Boy,Lover,2019-08-23,11,1LLXZFeAHK9R4xUramtUKw,spotify:track:1LLXZFeAHK9R4xUramtUKw,0.0246,0.695,0.71,0.000104,0.133,-6.639,0.05,157.925,0.557,82,190240
+244,Soon You’ll Get Better (feat. The Chicks),Lover,2019-08-23,12,4AYtqFyFbX0Xkc2wtcygTr,spotify:track:4AYtqFyFbX0Xkc2wtcygTr,0.907,0.433,0.182,0.0,0.123,-12.566,0.0641,207.476,0.421,74,201586
+245,False God,Lover,2019-08-23,13,5hQSXkFgbxjZo9uCwd11so,spotify:track:5hQSXkFgbxjZo9uCwd11so,0.736,0.739,0.32,0.000147,0.111,-10.862,0.239,79.97,0.351,80,200306
+246,You Need To Calm Down,Lover,2019-08-23,14,6RRNNciQGZEXnqk8SQ9yv5,spotify:track:6RRNNciQGZEXnqk8SQ9yv5,0.00929,0.771,0.671,0.0,0.0637,-5.617,0.0553,85.026,0.714,84,171360
+247,Afterglow,Lover,2019-08-23,15,1SymEzIT3H8UZfibCs3TYi,spotify:track:1SymEzIT3H8UZfibCs3TYi,0.13,0.756,0.449,0.0,0.114,-8.746,0.0344,111.011,0.399,83,223293
+248,ME! (feat. Brendon Urie of Panic! At The Disco),Lover,2019-08-23,16,2Rk4JlNc2TPmZe2af99d45,spotify:track:2Rk4JlNc2TPmZe2af99d45,0.033,0.61,0.83,0.0,0.118,-4.105,0.0571,182.162,0.728,81,193000
+249,It’s Nice To Have A Friend,Lover,2019-08-23,17,1SmiQ65iSAbPto6gPFlBYm,spotify:track:1SmiQ65iSAbPto6gPFlBYm,0.971,0.737,0.175,0.000337,0.171,-9.912,0.0401,70.008,0.545,74,150440
+250,Daylight,Lover,2019-08-23,18,1fzAuUVbzlhZ1lJAx9PtY6,spotify:track:1fzAuUVbzlhZ1lJAx9PtY6,0.808,0.557,0.496,0.000173,0.0772,-9.602,0.0563,149.983,0.265,85,293453
+251,...Ready For It?,reputation,2017-11-10,1,2yLa0QULdQr0qAIvVwN6B5,spotify:track:2yLa0QULdQr0qAIvVwN6B5,0.0527,0.613,0.764,0.0,0.197,-6.509,0.136,160.015,0.417,85,208186
+252,End Game,reputation,2017-11-10,2,2x0WlnmfG39ZuDmstl9xfX,spotify:track:2x0WlnmfG39ZuDmstl9xfX,0.00845,0.649,0.589,0.0,0.108,-6.237,0.0558,159.073,0.151,81,244826
+253,I Did Something Bad,reputation,2017-11-10,3,4svZDCRz4cJoneBpjpx8DJ,spotify:track:4svZDCRz4cJoneBpjpx8DJ,0.0679,0.696,0.602,2.11e-05,0.0696,-6.156,0.159,82.989,0.305,83,238253
+254,Don’t Blame Me,reputation,2017-11-10,4,1R0a2iXumgCiFb7HEZ7gUE,spotify:track:1R0a2iXumgCiFb7HEZ7gUE,0.106,0.615,0.534,1.76e-05,0.0607,-6.719,0.0386,135.917,0.193,91,236413
+255,Delicate,reputation,2017-11-10,5,6NFyWDv5CjfwuzoCkw47Xf,spotify:track:6NFyWDv5CjfwuzoCkw47Xf,0.216,0.75,0.404,0.000357,0.0911,-10.178,0.0682,95.045,0.0499,87,232253
+256,Look What You Made Me Do,reputation,2017-11-10,6,1P17dC1amhFzptugyAO7Il,spotify:track:1P17dC1amhFzptugyAO7Il,0.204,0.766,0.709,1.41e-05,0.126,-6.471,0.123,128.07,0.506,86,211853
+257,So It Goes...,reputation,2017-11-10,7,5PxFv9yJEg9dxvbZggykro,spotify:track:5PxFv9yJEg9dxvbZggykro,0.122,0.574,0.61,1.1e-06,0.13,-7.283,0.0732,74.957,0.374,77,227906
+258,Gorgeous,reputation,2017-11-10,8,1ZY1PqizIl78geGM4xWlEA,spotify:track:1ZY1PqizIl78geGM4xWlEA,0.0713,0.8,0.535,9.48e-06,0.213,-6.684,0.135,92.027,0.451,85,209680
+259,Getaway Car,reputation,2017-11-10,9,0VE4kBnHJUgtMf0dy6DRmW,spotify:track:0VE4kBnHJUgtMf0dy6DRmW,0.00465,0.562,0.689,2.23e-06,0.0888,-6.745,0.127,172.054,0.351,88,233626
+260,King Of My Heart,reputation,2017-11-10,10,7HuBDWi18s4aJM8UFnNheH,spotify:track:7HuBDWi18s4aJM8UFnNheH,0.00882,0.675,0.703,2.21e-06,0.0391,-7.902,0.0382,110.01,0.314,81,214320
+261,Dancing With Our Hands Tied,reputation,2017-11-10,11,7I7JbDv63ZJJsSi24DyJrz,spotify:track:7I7JbDv63ZJJsSi24DyJrz,0.0604,0.624,0.691,1.1e-05,0.138,-6.686,0.196,160.024,0.284,79,211506
+262,Dress,reputation,2017-11-10,12,6oVxXO5oQ4pTpO8RSnkzvv,spotify:track:6oVxXO5oQ4pTpO8RSnkzvv,0.0329,0.719,0.469,0.0,0.169,-8.792,0.0533,120.085,0.0851,82,230373
+263,This Is Why We Can't Have Nice Things,reputation,2017-11-10,13,07NxDD1iKCHbAldceD7QLP,spotify:track:07NxDD1iKCHbAldceD7QLP,0.0156,0.567,0.789,0.0,0.382,-5.986,0.115,163.96,0.438,79,207133
+264,Call It What You Want,reputation,2017-11-10,14,1GwMQaZz6Au3QLDbjbMdme,spotify:track:1GwMQaZz6Au3QLDbjbMdme,0.186,0.598,0.504,0.000221,0.34,-9.874,0.0731,163.954,0.252,82,203506
+265,New Year’s Day,reputation,2017-11-10,15,7F5oktn5YOsR9eR5YsFtqb,spotify:track:7F5oktn5YOsR9eR5YsFtqb,0.921,0.661,0.151,0.0,0.13,-12.864,0.0354,94.922,0.23,77,235466
+266,All Too Well,reputation Stadium Tour Surprise Song Playlist,2017-11-09,1,00vJzaoxM3Eja1doBUhX0P,spotify:track:00vJzaoxM3Eja1doBUhX0P,0.0448,0.602,0.605,0.000334,0.128,-7.803,0.0244,93.061,0.316,43,329160
+267,Wildest Dreams,reputation Stadium Tour Surprise Song Playlist,2017-11-09,2,22C0JIVhFaczZ4t9heqREN,spotify:track:22C0JIVhFaczZ4t9heqREN,0.0692,0.55,0.688,0.00144,0.106,-7.416,0.0897,139.997,0.465,47,220440
+268,The Best Day,reputation Stadium Tour Surprise Song Playlist,2017-11-09,3,7APTsjmZbj7TFXQJAiRti4,spotify:track:7APTsjmZbj7TFXQJAiRti4,0.639,0.669,0.448,4.06e-06,0.158,-8.566,0.0285,126.068,0.383,38,246306
+269,Red,reputation Stadium Tour Surprise Song Playlist,2017-11-09,4,4V9NuhKQcUFt4cgbynHV79,spotify:track:4V9NuhKQcUFt4cgbynHV79,0.0779,0.605,0.899,0.000125,0.0911,-4.273,0.0423,124.985,0.647,41,223093
+270,Holy Ground,reputation Stadium Tour Surprise Song Playlist,2017-11-09,5,4hCZk6WJBFQeG3P7WsyntI,spotify:track:4hCZk6WJBFQeG3P7WsyntI,0.0162,0.627,0.816,0.00208,0.0965,-6.698,0.0774,157.043,0.648,38,202960
+271,Teardrops On My Guitar - Radio Single Remix,reputation Stadium Tour Surprise Song Playlist,2017-11-09,6,7eGeUVeCEvEQrivmjl9Qn3,spotify:track:7eGeUVeCEvEQrivmjl9Qn3,0.313,0.626,0.427,0.0,0.138,-6.993,0.0234,99.959,0.263,39,204706
+272,Our Song,reputation Stadium Tour Surprise Song Playlist,2017-11-09,7,7qGr3rjRhndRIpFUA5f2HJ,spotify:track:7qGr3rjRhndRIpFUA5f2HJ,0.114,0.545,0.663,0.0,0.321,-5.05,0.0363,178.013,0.565,44,203440
+273,22,reputation Stadium Tour Surprise Song Playlist,2017-11-09,8,2P5gfMtCcKP0CkmgqFMyPg,spotify:track:2P5gfMtCcKP0CkmgqFMyPg,0.00254,0.66,0.733,0.00146,0.0473,-6.564,0.0379,104.009,0.68,43,232120
+274,I Knew You Were Trouble.,reputation Stadium Tour Surprise Song Playlist,2017-11-09,9,2o2IVjuqRkR9hJxtPjtAP0,spotify:track:2o2IVjuqRkR9hJxtPjtAP0,0.00476,0.536,0.464,2.67e-06,0.0357,-6.761,0.0412,77.318,0.665,44,219720
+275,I Don’t Wanna Live Forever (Fifty Shades Darker),reputation Stadium Tour Surprise Song Playlist,2017-11-09,10,55n9yjI6qqXh5F2mYvUc2y,spotify:track:55n9yjI6qqXh5F2mYvUc2y,0.0586,0.731,0.445,1.96e-05,0.14,-8.418,0.0533,117.97,0.106,83,247160
+276,Mean,reputation Stadium Tour Surprise Song Playlist,2017-11-09,11,5rcHBt2aNcGFWW0jaAUe1L,spotify:track:5rcHBt2aNcGFWW0jaAUe1L,0.451,0.576,0.754,0.0,0.223,-3.982,0.0428,163.886,0.79,40,238693
+277,How You Get The Girl,reputation Stadium Tour Surprise Song Playlist,2017-11-09,12,3aSYZ4upQ6OSNos26YeVWL,spotify:track:3aSYZ4upQ6OSNos26YeVWL,0.00364,0.765,0.656,0.00868,0.0918,-6.112,0.0504,119.997,0.545,41,247533
+278,So It Goes...,reputation Stadium Tour Surprise Song Playlist,2017-11-09,13,41T04yafZVrjNq2FqvLtId,spotify:track:41T04yafZVrjNq2FqvLtId,0.122,0.574,0.61,1.1e-06,0.13,-7.283,0.0732,74.957,0.374,56,227906
+279,Fifteen,reputation Stadium Tour Surprise Song Playlist,2017-11-09,14,0H2UD0LfSCiRr59YMGlCuS,spotify:track:0H2UD0LfSCiRr59YMGlCuS,0.0717,0.55,0.628,0.0,0.138,-4.437,0.0269,95.122,0.211,37,295320
+280,Mine,reputation Stadium Tour Surprise Song Playlist,2017-11-09,15,6FmJKLpyCt42nP2IOVEVc2,spotify:track:6FmJKLpyCt42nP2IOVEVc2,0.00302,0.621,0.779,3.22e-06,0.187,-2.943,0.0301,121.034,0.67,41,231866
+281,Sparks Fly,reputation Stadium Tour Surprise Song Playlist,2017-11-09,16,5h2sBwpUSAndjObfU3ti2r,spotify:track:5h2sBwpUSAndjObfU3ti2r,0.041,0.61,0.782,0.0,0.16,-2.98,0.0309,114.977,0.399,39,262920
+282,State Of Grace,reputation Stadium Tour Surprise Song Playlist,2017-11-09,17,0YRGTdfmJPALpglAaraYUr,spotify:track:0YRGTdfmJPALpglAaraYUr,0.000184,0.591,0.828,0.00113,0.0879,-5.895,0.0333,129.962,0.383,36,295720
+283,Haunted,reputation Stadium Tour Surprise Song Playlist,2017-11-09,18,6CB7DczrX9ZJB9Wkjegmaq,spotify:track:6CB7DczrX9ZJB9Wkjegmaq,0.0648,0.431,0.949,0.0,0.0612,-2.622,0.0605,162.012,0.37,38,245413
+284,Never Grow Up,reputation Stadium Tour Surprise Song Playlist,2017-11-09,19,1UPDfqsVIZLEiZeMuUsni2,spotify:track:1UPDfqsVIZLEiZeMuUsni2,0.824,0.714,0.309,0.0,0.136,-8.828,0.0302,124.894,0.545,38,292920
+285,Treacherous,reputation Stadium Tour Surprise Song Playlist,2017-11-09,20,0r3U7SOcoj4DIEyN44Lt5z,spotify:track:0r3U7SOcoj4DIEyN44Lt5z,0.101,0.704,0.621,4.3e-06,0.14,-8.086,0.0334,109.995,0.395,35,242760
+286,Babe,reputation Stadium Tour Surprise Song Playlist,2017-11-09,21,40PXEOFLJc7UIpLMrhSfW1,spotify:track:40PXEOFLJc7UIpLMrhSfW1,0.0221,0.577,0.784,0.0,0.125,-3.266,0.101,171.791,0.643,36,215106
+287,Welcome To New York,reputation Stadium Tour Surprise Song Playlist,2017-11-09,22,3YLA3NgzFRRa7LiHMtFPby,spotify:track:3YLA3NgzFRRa7LiHMtFPby,0.0348,0.789,0.634,1.64e-06,0.302,-4.762,0.0323,116.992,0.658,41,212600
+288,Fearless,reputation Stadium Tour Surprise Song Playlist,2017-11-09,23,43sE2O3skbGBpT2tO6fzv9,spotify:track:43sE2O3skbGBpT2tO6fzv9,0.0377,0.603,0.718,0.0,0.307,-4.401,0.0272,100.163,0.429,38,242973
+289,Enchanted,reputation Stadium Tour Surprise Song Playlist,2017-11-09,24,5lg33MHs1BoUtJVClw8ZpI,spotify:track:5lg33MHs1BoUtJVClw8ZpI,0.0717,0.535,0.626,0.00127,0.158,-3.895,0.0274,81.963,0.218,50,353253
+290,Change,reputation Stadium Tour Surprise Song Playlist,2017-11-09,25,5PSOWHll3h3Vy226xSJk0M,spotify:track:5PSOWHll3h3Vy226xSJk0M,0.00418,0.543,0.763,0.0,0.111,-4.206,0.0376,96.006,0.234,34,281053
+291,Ours,reputation Stadium Tour Surprise Song Playlist,2017-11-09,26,0V3SNHDka1JSCP71HAzpxw,spotify:track:0V3SNHDka1JSCP71HAzpxw,0.469,0.61,0.56,0.0,0.087,-7.392,0.0279,159.837,0.228,39,239346
+292,Out Of The Woods,reputation Stadium Tour Surprise Song Playlist,2017-11-09,27,0GmfiNHSgkKamYgQEMYOH3,spotify:track:0GmfiNHSgkKamYgQEMYOH3,0.000743,0.553,0.841,1.19e-05,0.341,-6.937,0.0396,92.008,0.338,43,235800
+293,Come Back...Be Here,reputation Stadium Tour Surprise Song Playlist,2017-11-09,28,5hiqtrACtMJkNpaNHj0n9Z,spotify:track:5hiqtrACtMJkNpaNHj0n9Z,0.00471,0.483,0.548,2.01e-06,0.0997,-6.291,0.0254,79.926,0.217,36,223920
+294,A Place in this World,reputation Stadium Tour Surprise Song Playlist,2017-11-09,29,2RSYYe7LhKFxIi50T5XtUo,spotify:track:2RSYYe7LhKFxIi50T5XtUo,0.0577,0.573,0.767,0.0,0.327,-2.929,0.0323,114.984,0.438,35,202080
+295,This Love,reputation Stadium Tour Surprise Song Playlist,2017-11-09,30,64KRxmbqypPBlya4nxFmDn,spotify:track:64KRxmbqypPBlya4nxFmDn,0.678,0.481,0.435,0.0,0.0928,-8.795,0.0321,143.95,0.107,36,250093
+296,The Lucky One,reputation Stadium Tour Surprise Song Playlist,2017-11-09,31,24ksPWXKg1k7OOG57pufED,spotify:track:24ksPWXKg1k7OOG57pufED,0.0352,0.706,0.505,0.0,0.13,-7.639,0.0358,117.935,0.561,35,240266
+297,Invisible,reputation Stadium Tour Surprise Song Playlist,2017-11-09,32,0kqC185OTcnuhbz4T7g5RB,spotify:track:0kqC185OTcnuhbz4T7g5RB,0.56,0.609,0.383,0.0,0.165,-5.732,0.0243,96.005,0.224,35,205853
+298,Breathe,reputation Stadium Tour Surprise Song Playlist,2017-11-09,33,3oxgFdIlxFEDEJqn7k5TVN,spotify:track:3oxgFdIlxFEDEJqn7k5TVN,0.416,0.442,0.48,0.0,0.129,-7.405,0.0281,73.849,0.167,37,264946
+299,Better Man,reputation Stadium Tour Surprise Song Playlist,2017-11-09,34,3EXetjrGgwIjDRNn6YA8sa,spotify:track:3EXetjrGgwIjDRNn6YA8sa,0.123,0.502,0.843,0.0,0.0974,-3.648,0.0378,143.944,0.507,40,263613
+300,Jump Then Fall,reputation Stadium Tour Surprise Song Playlist,2017-11-09,35,5zytSTR2g0I9psX2Z12ex6,spotify:track:5zytSTR2g0I9psX2Z12ex6,0.113,0.617,0.699,0.0,0.074,-5.712,0.0274,80.007,0.818,34,238093
+301,Begin Again,reputation Stadium Tour Surprise Song Playlist,2017-11-09,36,2G679wnKfyhUOeNx910OXg,spotify:track:2G679wnKfyhUOeNx910OXg,0.199,0.53,0.526,3.52e-06,0.14,-8.349,0.0263,79.025,0.323,35,239426
+302,Tied Together with a Smile,reputation Stadium Tour Surprise Song Playlist,2017-11-09,37,4qNEi8zGIYLiMtoW8OaJdx,spotify:track:4qNEi8zGIYLiMtoW8OaJdx,0.521,0.479,0.547,0.0,0.0728,-4.948,0.0275,146.147,0.238,35,251213
+303,The Story Of Us,reputation Stadium Tour Surprise Song Playlist,2017-11-09,38,2fF3QzbGCrtrDXIdWcg1mv,spotify:track:2fF3QzbGCrtrDXIdWcg1mv,0.00556,0.547,0.808,0.000304,0.0587,-3.63,0.0398,139.908,0.65,37,267653
+304,Forever & Always,reputation Stadium Tour Surprise Song Playlist,2017-11-09,39,0QCS4NpURHvWdF1icdkfBw,spotify:track:0QCS4NpURHvWdF1icdkfBw,0.0806,0.607,0.829,0.0,0.207,-5.02,0.0588,128.057,0.52,35,226293
+305,Hey Stephen,reputation Stadium Tour Surprise Song Playlist,2017-11-09,40,0TYJbIHBtmWy9ugtU9BcbE,spotify:track:0TYJbIHBtmWy9ugtU9BcbE,0.191,0.843,0.541,1.85e-06,0.108,-7.361,0.0318,116.001,0.838,34,256040
+306,Speak Now,reputation Stadium Tour Surprise Song Playlist,2017-11-09,41,1XLc4irbX7oQSneh6gWv3O,spotify:track:1XLc4irbX7oQSneh6gWv3O,0.0991,0.712,0.603,0.0,0.102,-3.753,0.0304,118.986,0.714,38,243346
+307,Wonderland,reputation Stadium Tour Surprise Song Playlist,2017-11-09,42,0eTCaVOYLpJlSkbEi2jay4,spotify:track:0eTCaVOYLpJlSkbEi2jay4,0.0493,0.422,0.692,2.57e-05,0.177,-5.447,0.0549,184.014,0.197,43,245560
+308,White Horse,reputation Stadium Tour Surprise Song Playlist,2017-11-09,43,4RMfSYDFkcz0bKoK8fHDgR,spotify:track:4RMfSYDFkcz0bKoK8fHDgR,0.314,0.578,0.348,0.0,0.1,-8.066,0.0257,92.673,0.218,35,235400
+309,I'm Only Me When I'm With You,reputation Stadium Tour Surprise Song Playlist,2017-11-09,44,6Py8IKZqDyU8aQVrjilbJw,spotify:track:6Py8IKZqDyU8aQVrjilbJw,0.00454,0.556,0.933,0.000469,0.101,-3.685,0.072,143.936,0.521,37,215600
+310,Starlight,reputation Stadium Tour Surprise Song Playlist,2017-11-09,45,7txpzmA69zyk50K3ZyZSzC,spotify:track:7txpzmA69zyk50K3ZyZSzC,0.0192,0.649,0.777,0.000487,0.234,-5.797,0.0391,126.014,0.616,35,220600
+311,I Know Places,reputation Stadium Tour Surprise Song Playlist,2017-11-09,46,3qGLcmO0XnnrcpAQGZwTvA,spotify:track:3qGLcmO0XnnrcpAQGZwTvA,0.245,0.602,0.755,0.0,0.178,-4.991,0.071,159.965,0.495,40,195706
+312,Welcome To New York,1989 (Deluxe Edition),2014-10-27,1,33Kq0AT5rvwyE4azisG08x,spotify:track:33Kq0AT5rvwyE4azisG08x,0.0348,0.789,0.634,1.64e-06,0.302,-4.762,0.0323,116.992,0.658,67,212600
+313,Blank Space,1989 (Deluxe Edition),2014-10-27,2,2sC2P3BN0IXujNaaSyDmtP,spotify:track:2sC2P3BN0IXujNaaSyDmtP,0.103,0.76,0.703,0.0,0.0913,-5.412,0.054,95.997,0.57,70,231826
+314,Style,1989 (Deluxe Edition),2014-10-27,3,1fo2ctLqj3zBhRQKOXprol,spotify:track:1fo2ctLqj3zBhRQKOXprol,0.00245,0.588,0.791,0.00258,0.118,-5.595,0.0402,94.933,0.487,73,231000
+315,Out Of The Woods,1989 (Deluxe Edition),2014-10-27,4,6Nde5KuTXyB7jlPO4upaBo,spotify:track:6Nde5KuTXyB7jlPO4upaBo,0.000743,0.553,0.841,1.19e-05,0.341,-6.937,0.0396,92.008,0.338,71,235800
+316,All You Had To Do Was Stay,1989 (Deluxe Edition),2014-10-27,5,0lmMtDQ2ElasKU2qDAE6NN,spotify:track:0lmMtDQ2ElasKU2qDAE6NN,0.00201,0.605,0.725,2.02e-05,0.101,-5.729,0.0323,96.97,0.539,69,193293
+317,Shake It Off,1989 (Deluxe Edition),2014-10-27,6,3fthfkkvy9av3q3uAGVf7U,spotify:track:3fthfkkvy9av3q3uAGVf7U,0.0647,0.647,0.8,0.0,0.334,-5.384,0.165,160.078,0.942,68,219200
+318,I Wish You Would,1989 (Deluxe Edition),2014-10-27,7,1B5VzXPqMlvRw0U4HJY3dJ,spotify:track:1B5VzXPqMlvRw0U4HJY3dJ,0.0158,0.653,0.893,4.95e-05,0.102,-5.966,0.0538,118.035,0.513,72,207440
+319,Bad Blood,1989 (Deluxe Edition),2014-10-27,8,0yN4fNzmVnmgC0dsOoi9Wh,spotify:track:0yN4fNzmVnmgC0dsOoi9Wh,0.0885,0.646,0.794,6.16e-06,0.201,-6.104,0.19,170.216,0.287,67,211933
+320,Wildest Dreams,1989 (Deluxe Edition),2014-10-27,9,106R7Z57WYzBAfrXImV30y,spotify:track:106R7Z57WYzBAfrXImV30y,0.0692,0.55,0.688,0.00144,0.106,-7.416,0.0897,139.997,0.465,66,220440
+321,How You Get The Girl,1989 (Deluxe Edition),2014-10-27,10,6wfugRLamFsTRbPcCpNnP7,spotify:track:6wfugRLamFsTRbPcCpNnP7,0.00364,0.765,0.656,0.00868,0.0918,-6.112,0.0504,119.997,0.545,71,247533
+322,This Love,1989 (Deluxe Edition),2014-10-27,11,1kTPQnabROVkW9bUXdCGrB,spotify:track:1kTPQnabROVkW9bUXdCGrB,0.678,0.481,0.435,0.0,0.0928,-8.795,0.0321,143.95,0.107,65,250093
+323,I Know Places,1989 (Deluxe Edition),2014-10-27,12,2zfgVd034GlUvk7LqBHl6u,spotify:track:2zfgVd034GlUvk7LqBHl6u,0.245,0.602,0.755,0.0,0.178,-4.991,0.071,159.965,0.495,70,195706
+324,Clean,1989 (Deluxe Edition),2014-10-27,13,4bXCcoesMt8u99xMsbLr9U,spotify:track:4bXCcoesMt8u99xMsbLr9U,0.232,0.815,0.377,0.0,0.1,-7.754,0.0346,103.97,0.211,72,271000
+325,Wonderland,1989 (Deluxe Edition),2014-10-27,14,6iWMI5oOhWrDbLbjmwTWFq,spotify:track:6iWMI5oOhWrDbLbjmwTWFq,0.0493,0.422,0.692,2.57e-05,0.177,-5.447,0.0549,184.014,0.197,73,245560
+326,You Are In Love,1989 (Deluxe Edition),2014-10-27,15,4A2LfnduSTsE8u0ecYROxE,spotify:track:4A2LfnduSTsE8u0ecYROxE,0.707,0.474,0.48,0.000108,0.0903,-8.894,0.0622,170.109,0.319,73,267106
+327,New Romantics,1989 (Deluxe Edition),2014-10-27,16,6rZVy6FIG7lSJQMFXHo12z,spotify:track:6rZVy6FIG7lSJQMFXHo12z,0.00463,0.633,0.889,0.000458,0.0658,-5.87,0.0715,121.956,0.584,78,230466
+328,I Know Places - Voice Memo,1989 (Deluxe Edition),2014-10-27,17,4JQm7ebhsrt10wmrP6AfXL,spotify:track:4JQm7ebhsrt10wmrP6AfXL,0.829,0.592,0.128,0.0,0.527,-17.932,0.589,78.828,0.15,57,216333
+329,I Wish You Would - Voice Memo,1989 (Deluxe Edition),2014-10-27,18,4TtyvyI42C0KFnbDZvNC8Y,spotify:track:4TtyvyI42C0KFnbDZvNC8Y,0.717,0.781,0.357,0.0,0.185,-16.394,0.912,118.317,0.645,54,107133
+330,Blank Space - Voice Memo,1989 (Deluxe Edition),2014-10-27,19,0yisH8r0f3Mkq34kjzUlCV,spotify:track:0yisH8r0f3Mkq34kjzUlCV,0.801,0.675,0.234,0.0,0.657,-15.064,0.721,127.296,0.578,54,131186
+331,Welcome To New York,1989,2014-10-27,1,6qnM0XXPZOINWA778uNqQ9,spotify:track:6qnM0XXPZOINWA778uNqQ9,0.038,0.793,0.634,1.76e-06,0.304,-4.807,0.0324,117.024,0.615,70,212600
+332,Blank Space,1989,2014-10-27,2,1p80LdxRV74UKvL8gnD7ky,spotify:track:1p80LdxRV74UKvL8gnD7ky,0.085,0.753,0.678,1.64e-06,0.13,-5.421,0.0644,96.006,0.583,83,231826
+333,Style,1989,2014-10-27,3,4lIxdJw6W3Fg4vUIYCB0S5,spotify:track:4lIxdJw6W3Fg4vUIYCB0S5,0.00253,0.598,0.786,0.0016,0.117,-5.572,0.0383,95.019,0.456,83,231000
+334,Out Of The Woods,1989,2014-10-27,4,5OndtwLGA9O6XHFcGm2H7r,spotify:track:5OndtwLGA9O6XHFcGm2H7r,0.00103,0.552,0.842,1.17e-05,0.337,-6.938,0.0373,91.991,0.343,72,235800
+335,All You Had To Do Was Stay,1989,2014-10-27,5,0dAb8TY433dl3ZfXYCLE19,spotify:track:0dAb8TY433dl3ZfXYCLE19,0.00196,0.602,0.736,4.57e-05,0.105,-5.778,0.0338,96.969,0.471,69,193293
+336,Shake It Off,1989,2014-10-27,6,5xTtaWoae3wi06K5WfVUUH,spotify:track:5xTtaWoae3wi06K5WfVUUH,0.0561,0.647,0.785,0.0,0.148,-5.414,0.165,160.015,0.943,79,219200
+337,I Wish You Would,1989,2014-10-27,7,3wmN11qXGL0HyPojvEE1D9,spotify:track:3wmN11qXGL0HyPojvEE1D9,0.016,0.648,0.898,9.91e-05,0.109,-5.963,0.0513,118.02,0.502,64,207440
+338,Bad Blood,1989,2014-10-27,8,273dCMFseLcVsoSWx59IoE,spotify:track:273dCMFseLcVsoSWx59IoE,0.0871,0.65,0.802,6.54e-06,0.148,-6.114,0.181,170.146,0.295,76,211933
+339,Wildest Dreams,1989,2014-10-27,9,59HjlYCeBsxdI0fcm3zglw,spotify:track:59HjlYCeBsxdI0fcm3zglw,0.0702,0.554,0.666,0.00593,0.106,-7.414,0.0747,140.056,0.472,76,220440
+340,How You Get The Girl,1989,2014-10-27,10,4dYUOfmWna6DFccnz732n8,spotify:track:4dYUOfmWna6DFccnz732n8,0.00461,0.764,0.66,0.00477,0.0915,-6.136,0.0494,119.988,0.524,62,247533
+341,This Love,1989,2014-10-27,11,3oKMl2tJv4fdidkXUYMI5x,spotify:track:3oKMl2tJv4fdidkXUYMI5x,0.635,0.475,0.459,0.0,0.101,-8.768,0.0333,143.988,0.0828,58,250093
+342,I Know Places,1989,2014-10-27,12,3jBMHD19RZdAqG9iFQh7xc,spotify:track:3jBMHD19RZdAqG9iFQh7xc,0.231,0.596,0.763,0.0,0.2,-4.99,0.0661,159.958,0.507,60,195706
+343,Clean,1989,2014-10-27,13,06WgOCf0LV2h4keYXDRnuh,spotify:track:06WgOCf0LV2h4keYXDRnuh,0.241,0.81,0.379,0.0,0.113,-7.771,0.0349,103.981,0.22,62,271000
+344,State Of Grace,Red (Deluxe Edition),2012-10-22,1,5zyCYmiaVE5y26EZuwZbsw,spotify:track:5zyCYmiaVE5y26EZuwZbsw,0.000197,0.588,0.825,0.00138,0.0885,-5.882,0.0328,129.968,0.397,49,295186
+345,Red,Red (Deluxe Edition),2012-10-22,2,1RvQQGwaPipiNgz8RXAKA8,spotify:track:1RvQQGwaPipiNgz8RXAKA8,0.0773,0.602,0.896,8.87e-05,0.091,-4.267,0.0437,124.978,0.641,56,220826
+346,Treacherous,Red (Deluxe Edition),2012-10-22,3,0XfOV7qY3834QpFVwOb6CC,spotify:track:0XfOV7qY3834QpFVwOb6CC,0.101,0.705,0.621,4.3e-06,0.147,-8.086,0.0334,109.993,0.395,47,240773
+347,I Knew You Were Trouble.,Red (Deluxe Edition),2012-10-22,4,0ciHz919LVKoH4zgxyMPZ9,spotify:track:0ciHz919LVKoH4zgxyMPZ9,0.00454,0.622,0.469,2.25e-06,0.0398,-6.798,0.0363,77.019,0.679,55,217973
+348,All Too Well,Red (Deluxe Edition),2012-10-22,5,1q3RiD1tIWUpGsNFADMlvl,spotify:track:1q3RiD1tIWUpGsNFADMlvl,0.0382,0.602,0.609,0.0002,0.127,-7.803,0.0243,93.06,0.337,62,327893
+349,22,Red (Deluxe Edition),2012-10-22,6,3bIxTsfeNMO7Nt2J3EUKrA,spotify:track:3bIxTsfeNMO7Nt2J3EUKrA,0.00215,0.658,0.729,0.0013,0.0752,-6.561,0.0378,104.007,0.668,60,230133
+350,I Almost Do,Red (Deluxe Edition),2012-10-22,7,31pEV5lPJi7btskZoUr2yu,spotify:track:31pEV5lPJi7btskZoUr2yu,0.0173,0.567,0.481,4.13e-05,0.182,-7.357,0.027,145.865,0.233,48,242573
+351,We Are Never Ever Getting Back Together,Red (Deluxe Edition),2012-10-22,8,1OYARuagDrpgNNQ4loO1Cs,spotify:track:1OYARuagDrpgNNQ4loO1Cs,0.00957,0.628,0.676,2.65e-05,0.102,-5.911,0.0916,85.984,0.75,54,191880
+352,Stay Stay Stay,Red (Deluxe Edition),2012-10-22,9,1x0J8LFX23d5h1zzuzZorc,spotify:track:1x0J8LFX23d5h1zzuzZorc,0.307,0.729,0.748,1.29e-06,0.09,-6.67,0.0245,99.981,0.928,50,204826
+353,The Last Time,Red (Deluxe Edition),2012-10-22,10,7vvIpJZye5cRR6De1LKM0m,spotify:track:7vvIpJZye5cRR6De1LKM0m,0.035,0.505,0.443,3.15e-06,0.0921,-7.039,0.0276,94.069,0.123,50,298293
+354,Holy Ground,Red (Deluxe Edition),2012-10-22,11,5d2Kn9oAAh9S2EbyCo1i52,spotify:track:5d2Kn9oAAh9S2EbyCo1i52,0.0162,0.627,0.816,0.00208,0.0966,-6.698,0.0774,157.043,0.648,48,201853
+355,Sad Beautiful Tragic,Red (Deluxe Edition),2012-10-22,12,5QKhg4r4Ibt0LVTmWEXTEg,spotify:track:5QKhg4r4Ibt0LVTmWEXTEg,0.632,0.624,0.34,0.0337,0.121,-12.411,0.029,129.987,0.261,46,283680
+356,The Lucky One,Red (Deluxe Edition),2012-10-22,13,2wtHlpYSgC7xEdD3DrSHNL,spotify:track:2wtHlpYSgC7xEdD3DrSHNL,0.0371,0.706,0.499,0.0,0.132,-7.675,0.0369,117.937,0.545,46,240133
+357,Everything Has Changed,Red (Deluxe Edition),2012-10-22,14,7gdwoOmi258QJq0hmQ4hto,spotify:track:7gdwoOmi258QJq0hmQ4hto,0.36,0.624,0.458,3.89e-06,0.303,-6.755,0.0287,80.017,0.436,50,243933
+358,Starlight,Red (Deluxe Edition),2012-10-22,15,0vqI4ZIMuifeKeItGiWbPj,spotify:track:0vqI4ZIMuifeKeItGiWbPj,0.0213,0.649,0.777,0.000335,0.221,-5.804,0.0406,126.018,0.587,47,217826
+359,Begin Again,Red (Deluxe Edition),2012-10-22,16,48A0aShHlovDfTMucMrE66,spotify:track:48A0aShHlovDfTMucMrE66,0.199,0.53,0.526,3.52e-06,0.232,-8.349,0.0263,79.025,0.323,47,237613
+360,The Moment I Knew,Red (Deluxe Edition),2012-10-22,17,5AsmAjBSSQjRPWgAYIp8tm,spotify:track:5AsmAjBSSQjRPWgAYIp8tm,0.187,0.62,0.506,1.47e-05,0.102,-7.327,0.0312,126.015,0.275,44,285560
+361,Come Back...Be Here,Red (Deluxe Edition),2012-10-22,18,4qyalTRMRH5YuEntvvMvq0,spotify:track:4qyalTRMRH5YuEntvvMvq0,0.00471,0.483,0.548,2.01e-06,0.0997,-6.291,0.0254,79.926,0.217,49,222706
+362,Girl At Home,Red (Deluxe Edition),2012-10-22,19,6cf6rLb8qcklvJv90W6HCW,spotify:track:6cf6rLb8qcklvJv90W6HCW,0.272,0.733,0.59,0.0,0.136,-5.86,0.0284,125.048,0.633,42,220320
+363,Treacherous - Original Demo Recording,Red (Deluxe Edition),2012-10-22,20,7BT9K9BDqq6HI2oWH5UMZQ,spotify:track:7BT9K9BDqq6HI2oWH5UMZQ,0.175,0.828,0.64,6.14e-05,0.0996,-8.248,0.0355,109.993,0.519,40,239720
+364,Red - Original Demo Recording,Red (Deluxe Edition),2012-10-22,21,4mqgn90sCeVSYqcoftTQTd,spotify:track:4mqgn90sCeVSYqcoftTQTd,0.113,0.678,0.902,0.000235,0.0722,-4.659,0.0358,124.998,0.637,40,226280
+365,State Of Grace - Acoustic,Red (Deluxe Edition),2012-10-22,22,5G9AVKld9q7DCrmoY42raf,spotify:track:5G9AVKld9q7DCrmoY42raf,0.664,0.626,0.118,0.000169,0.127,-15.91,0.0305,105.597,0.0682,43,323080
+366,State Of Grace,Red,2012-10-22,1,786NsUYn4GGUf8AOt0SQhP,spotify:track:786NsUYn4GGUf8AOt0SQhP,0.000197,0.588,0.825,0.00138,0.0885,-5.882,0.0328,129.968,0.397,44,295186
+367,Red,Red,2012-10-22,2,0cITLOYn1Sv4q27zZPqlNK,spotify:track:0cITLOYn1Sv4q27zZPqlNK,0.0773,0.602,0.896,8.87e-05,0.091,-4.267,0.0437,124.978,0.641,63,220826
+368,Treacherous,Red,2012-10-22,3,5kYFVSQoPu7yRpfiHBwMUk,spotify:track:5kYFVSQoPu7yRpfiHBwMUk,0.101,0.705,0.621,4.3e-06,0.147,-8.086,0.0334,109.993,0.395,43,240773
+369,I Knew You Were Trouble.,Red,2012-10-22,4,72jCZdH0Lhg93z6Z4hBjgj,spotify:track:72jCZdH0Lhg93z6Z4hBjgj,0.00454,0.622,0.469,2.25e-06,0.0398,-6.798,0.0363,77.019,0.679,65,217973
+370,All Too Well,Red,2012-10-22,5,4XMP3zVxrnr58T0tjIHvpR,spotify:track:4XMP3zVxrnr58T0tjIHvpR,0.0382,0.602,0.609,0.0002,0.127,-7.803,0.0243,93.06,0.337,50,327893
+371,22,Red,2012-10-22,6,2ULNeSomDxVNmdDy8VxEBU,spotify:track:2ULNeSomDxVNmdDy8VxEBU,0.00215,0.658,0.729,0.0013,0.0752,-6.561,0.0378,104.007,0.668,55,230133
+372,I Almost Do,Red,2012-10-22,7,5VwFkx7JOimOGTYfha5rs1,spotify:track:5VwFkx7JOimOGTYfha5rs1,0.0173,0.567,0.481,4.13e-05,0.182,-7.357,0.027,145.865,0.233,46,242573
+373,We Are Never Ever Getting Back Together,Red,2012-10-22,8,7AEAGTc8cReDqcbPoY9gwo,spotify:track:7AEAGTc8cReDqcbPoY9gwo,0.00957,0.628,0.676,2.65e-05,0.102,-5.911,0.0916,85.984,0.75,63,191880
+374,Stay Stay Stay,Red,2012-10-22,9,1qLeEu4iXEclkLwoBlMiou,spotify:track:1qLeEu4iXEclkLwoBlMiou,0.307,0.729,0.748,1.29e-06,0.09,-6.67,0.0245,99.981,0.928,44,204826
+375,The Last Time,Red,2012-10-22,10,3n9mzjgAzjyKawvbHzciXF,spotify:track:3n9mzjgAzjyKawvbHzciXF,0.035,0.505,0.443,3.15e-06,0.0921,-7.039,0.0276,94.069,0.123,42,298293
+376,Holy Ground,Red,2012-10-22,11,1fGsZsIkQkOspfsT24nQP6,spotify:track:1fGsZsIkQkOspfsT24nQP6,0.0162,0.627,0.816,0.00208,0.0966,-6.698,0.0774,157.043,0.648,42,201853
+377,Sad Beautiful Tragic,Red,2012-10-22,12,6LKjHhOW1az75pCQ9XJJtF,spotify:track:6LKjHhOW1az75pCQ9XJJtF,0.632,0.624,0.34,0.0337,0.121,-12.411,0.029,129.987,0.261,40,283680
+378,The Lucky One,Red,2012-10-22,13,2X2J0BhxaLTmnxO4pPUhSd,spotify:track:2X2J0BhxaLTmnxO4pPUhSd,0.0371,0.706,0.499,0.0,0.132,-7.675,0.0369,117.937,0.545,41,240133
+379,Everything Has Changed,Red,2012-10-22,14,4NAmRvqSITAAzKWnC8yRq3,spotify:track:4NAmRvqSITAAzKWnC8yRq3,0.36,0.624,0.458,3.89e-06,0.303,-6.755,0.0287,80.017,0.436,56,243933
+380,Starlight,Red,2012-10-22,15,7MecVsMj22MneZt7kVFaCr,spotify:track:7MecVsMj22MneZt7kVFaCr,0.0213,0.649,0.777,0.000335,0.221,-5.804,0.0406,126.018,0.587,41,217826
+381,Begin Again,Red,2012-10-22,16,0L4YCNRfXAoTvdpWeH2RGj,spotify:track:0L4YCNRfXAoTvdpWeH2RGj,0.199,0.53,0.526,3.52e-06,0.232,-8.349,0.0263,79.025,0.323,59,237613
+382,Sparks Fly - Live/2011,Speak Now World Tour Live,2010-10-25,1,1aBJNc2thaKyh5THWzIqHX,spotify:track:1aBJNc2thaKyh5THWzIqHX,0.00917,0.455,0.783,0.0,0.918,-5.184,0.0393,114.981,0.298,50,336826
+383,Mine - Live/2011,Speak Now World Tour Live,2010-10-25,2,7yndkPYP6YQQLBpPsizDfh,spotify:track:7yndkPYP6YQQLBpPsizDfh,0.00233,0.496,0.852,0.0,0.554,-4.775,0.0373,120.969,0.442,48,259279
+384,The Story Of Us - Live,Speak Now World Tour Live,2010-10-25,3,72GIZuUXo14oyrS0si3Rgc,spotify:track:72GIZuUXo14oyrS0si3Rgc,0.00048,0.419,0.908,0.0,0.815,-5.156,0.0651,139.813,0.472,49,290520
+385,Mean - Live/2011,Speak Now World Tour Live,2010-10-25,4,7mFiEij8AXPUZB7aKLbUlQ,spotify:track:7mFiEij8AXPUZB7aKLbUlQ,0.154,0.429,0.915,0.0,0.693,-4.373,0.069,163.752,0.432,48,246373
+386,Ours - Live/2011,Speak Now World Tour Live,2010-10-25,5,68QyrSzpnoU04AAhE5z8lj,spotify:track:68QyrSzpnoU04AAhE5z8lj,0.715,0.421,0.355,0.0,0.867,-10.21,0.0298,77.769,0.267,47,245973
+387,Back To December/Apologize/You're Not Sorry - Live/2011/Medley,Speak Now World Tour Live,2010-10-25,6,1IsquhJFJ0qcFZI7FeAEuN,spotify:track:1IsquhJFJ0qcFZI7FeAEuN,0.155,0.374,0.516,0.0,0.795,-8.745,0.0294,142.057,0.171,55,362826
+388,Better Than Revenge - Live/2011,Speak Now World Tour Live,2010-10-25,7,6505MLhnqTDDg4tjoUz2Wp,spotify:track:6505MLhnqTDDg4tjoUz2Wp,0.00306,0.445,0.887,2.67e-05,0.931,-5.629,0.0768,145.954,0.386,50,344573
+389,Speak Now - Live/2011,Speak Now World Tour Live,2010-10-25,8,3QFB14MOUf3imlyISNmrbT,spotify:track:3QFB14MOUf3imlyISNmrbT,0.0636,0.615,0.694,1.28e-06,0.83,-5.251,0.0318,118.876,0.373,48,248146
+390,Last Kiss - Live/2011,Speak Now World Tour Live,2010-10-25,9,6hH37tyeRdyan1mAppmVor,spotify:track:6hH37tyeRdyan1mAppmVor,0.205,0.427,0.395,8.73e-06,0.701,-12.551,0.0291,79.517,0.188,48,369066
+391,Drops Of Jupiter - Live/2011,Speak Now World Tour Live,2010-10-25,10,0BSmbCIY36iw04azzJ3S0S,spotify:track:0BSmbCIY36iw04azzJ3S0S,0.806,0.374,0.504,0.0,0.76,-8.407,0.0392,109.025,0.27,54,315173
+392,Bette Davis Eyes - Live/2011,Speak Now World Tour Live,2010-10-25,11,6KF9xd2hBLuexrmBX4vUWD,spotify:track:6KF9xd2hBLuexrmBX4vUWD,0.713,0.327,0.488,0.0,0.837,-9.287,0.0322,104.46,0.363,49,189146
+393,I Want You Back - Live/2011,Speak Now World Tour Live,2010-10-25,12,4KB3zBArZ1rHRExilzycaV,spotify:track:4KB3zBArZ1rHRExilzycaV,0.794,0.536,0.512,0.000122,0.497,-6.794,0.0341,97.397,0.249,50,83253
+394,Dear John - Live/2011,Speak Now World Tour Live,2010-10-25,13,4DbI1rr4IQ2bc8nejy9ttd,spotify:track:4DbI1rr4IQ2bc8nejy9ttd,0.0157,0.521,0.386,0.0,0.884,-8.784,0.0301,119.518,0.138,49,404680
+395,Enchanted - Live/2011,Speak Now World Tour Live,2010-10-25,14,3lm4L3pPL32PFy74dR17OR,spotify:track:3lm4L3pPL32PFy74dR17OR,0.0747,0.34,0.663,2.34e-06,0.563,-5.597,0.0331,163.678,0.214,51,389213
+396,Haunted - Live/2011,Speak Now World Tour Live,2010-10-25,15,6znB7YZhMJT2B83zfbiyLq,spotify:track:6znB7YZhMJT2B83zfbiyLq,0.0245,0.338,0.818,0.0,0.889,-7.495,0.0496,162.157,0.177,49,292426
+397,Long Live - Live/2011,Speak Now World Tour Live,2010-10-25,16,5QkzyLUb4ggojNDp8G2OxX,spotify:track:5QkzyLUb4ggojNDp8G2OxX,0.0053,0.544,0.728,0.0,0.865,-5.838,0.0282,101.939,0.204,49,376466
+398,Mine,Speak Now (Deluxe Edition),2010-10-25,1,6LZaxlycSWrJZ4Volb25qx,spotify:track:6LZaxlycSWrJZ4Volb25qx,0.00265,0.624,0.757,1.87e-06,0.189,-2.94,0.0296,121.07,0.658,57,230706
+399,Sparks Fly,Speak Now (Deluxe Edition),2010-10-25,2,1q8E1FfFuhd12c5JcJwPxQ,spotify:track:1q8E1FfFuhd12c5JcJwPxQ,0.0396,0.605,0.787,1.42e-06,0.163,-3.002,0.0308,114.987,0.374,57,260933
+400,Back To December,Speak Now (Deluxe Edition),2010-10-25,3,7lxADouiWFkwR7ZV2GKUcH,spotify:track:7lxADouiWFkwR7ZV2GKUcH,0.117,0.529,0.67,0.0,0.334,-4.663,0.0303,141.893,0.286,57,293026
+401,Speak Now,Speak Now (Deluxe Edition),2010-10-25,4,1nYWTzy5zu3zEPNgB1sItW,spotify:track:1nYWTzy5zu3zEPNgB1sItW,0.095,0.709,0.599,0.0,0.0973,-3.734,0.0304,118.975,0.735,54,240760
+402,Dear John,Speak Now (Deluxe Edition),2010-10-25,5,1ubvV5ECkm6nSI6g1HmbBK,spotify:track:1ubvV5ECkm6nSI6g1HmbBK,0.166,0.589,0.47,1.45e-06,0.112,-5.32,0.028,119.386,0.102,59,403920
+403,Mean,Speak Now (Deluxe Edition),2010-10-25,6,4N60XfcTE1ysLZGbYgnYXq,spotify:track:4N60XfcTE1ysLZGbYgnYXq,0.452,0.568,0.761,0.0,0.217,-3.987,0.0459,163.974,0.789,57,237733
+404,The Story Of Us,Speak Now (Deluxe Edition),2010-10-25,7,19tHCfzUSoy5HkpxcmbA0A,spotify:track:19tHCfzUSoy5HkpxcmbA0A,0.00478,0.543,0.818,0.000368,0.0357,-3.611,0.0398,139.898,0.683,55,265666
+405,Never Grow Up,Speak Now (Deluxe Edition),2010-10-25,8,74WBGgUnpKrJXt6TETfR6Z,spotify:track:74WBGgUnpKrJXt6TETfR6Z,0.819,0.714,0.305,0.0,0.174,-8.837,0.0305,124.91,0.554,56,290466
+406,Enchanted,Speak Now (Deluxe Edition),2010-10-25,9,14LtANuaslKWyYbktUrHBU,spotify:track:14LtANuaslKWyYbktUrHBU,0.0739,0.455,0.623,0.000424,0.146,-3.878,0.0288,163.893,0.208,58,352186
+407,Better Than Revenge,Speak Now (Deluxe Edition),2010-10-25,10,1By2VQkUN0Frd8mKNV5NYC,spotify:track:1By2VQkUN0Frd8mKNV5NYC,0.0139,0.516,0.917,6.37e-06,0.36,-3.186,0.0827,145.821,0.635,65,217160
+408,Innocent,Speak Now (Deluxe Edition),2010-10-25,11,3kfgJql90tzgoxByioAMXR,spotify:track:3kfgJql90tzgoxByioAMXR,0.186,0.552,0.608,0.0,0.125,-5.29,0.0259,134.05,0.17,50,302253
+409,Haunted,Speak Now (Deluxe Edition),2010-10-25,12,11UaQaEp2LvdspTyyuE3ur,spotify:track:11UaQaEp2LvdspTyyuE3ur,0.0826,0.436,0.95,1.08e-06,0.149,-2.627,0.057,162.088,0.352,58,242080
+410,Last Kiss,Speak Now (Deluxe Edition),2010-10-25,13,1D27z8xNzjW0Mwwt1NCWhJ,spotify:track:1D27z8xNzjW0Mwwt1NCWhJ,0.57,0.371,0.341,3.09e-05,0.101,-9.475,0.0319,89.038,0.196,56,367133
+411,Long Live,Speak Now (Deluxe Edition),2010-10-25,14,7DjCRhhFo9PPzca1BjMLcf,spotify:track:7DjCRhhFo9PPzca1BjMLcf,0.036,0.418,0.68,7.59e-05,0.114,-4.3,0.0347,204.12,0.142,55,317453
+412,Ours,Speak Now (Deluxe Edition),2010-10-25,15,1EQn3Uc5AyUXoiPLeyCrrg,spotify:track:1EQn3Uc5AyUXoiPLeyCrrg,0.537,0.608,0.569,0.0,0.097,-7.227,0.0284,159.845,0.238,58,237920
+413,If This Was A Movie,Speak Now (Deluxe Edition),2010-10-25,16,0vvt4IZOMkRug195S4MUq0,spotify:track:0vvt4IZOMkRug195S4MUq0,0.166,0.511,0.719,4.54e-06,0.34,-3.457,0.0265,147.852,0.289,54,234546
+414,Superman,Speak Now (Deluxe Edition),2010-10-25,17,2R7C9dDqv1UPycvepBFziA,spotify:track:2R7C9dDqv1UPycvepBFziA,0.0268,0.582,0.765,1.95e-06,0.103,-3.648,0.0324,131.982,0.559,51,275960
+415,Back To December - Acoustic,Speak Now (Deluxe Edition),2010-10-25,18,6IH2Z54gYPLqgJtxZjX80i,spotify:track:6IH2Z54gYPLqgJtxZjX80i,0.748,0.541,0.453,0.0,0.2,-6.459,0.0266,141.757,0.377,52,292560
+416,Haunted - Acoustic Version,Speak Now (Deluxe Edition),2010-10-25,19,62rlxI6g2PNaWsHoiRryto,spotify:track:62rlxI6g2PNaWsHoiRryto,0.842,0.563,0.443,0.0,0.293,-5.078,0.0247,80.962,0.313,52,217613
+417,Mine - POP Mix,Speak Now (Deluxe Edition),2010-10-25,20,0fAbfDiuQiUwV7FUcFfRGY,spotify:track:0fAbfDiuQiUwV7FUcFfRGY,0.00727,0.695,0.723,1.2e-06,0.1,-3.806,0.0285,121.011,0.679,48,230333
+418,Mine,Speak Now,2010-10-25,1,0dBW6ZsW8skfvoRfgeerBF,spotify:track:0dBW6ZsW8skfvoRfgeerBF,0.00265,0.624,0.757,1.87e-06,0.189,-2.94,0.0296,121.07,0.658,66,230706
+419,Sparks Fly,Speak Now,2010-10-25,2,6d9IiDcFxtFVIvt9pCqyGH,spotify:track:6d9IiDcFxtFVIvt9pCqyGH,0.0396,0.605,0.787,1.42e-06,0.163,-3.002,0.0308,114.987,0.374,65,260933
+420,Back To December,Speak Now,2010-10-25,3,3DrjZArsPsoqbLzUZZV1Id,spotify:track:3DrjZArsPsoqbLzUZZV1Id,0.117,0.529,0.67,0.0,0.334,-4.663,0.0303,141.893,0.286,69,293026
+421,Speak Now,Speak Now,2010-10-25,4,24DefNCFiWTP8OjYWiXuYe,spotify:track:24DefNCFiWTP8OjYWiXuYe,0.095,0.709,0.599,0.0,0.0973,-3.734,0.0304,118.975,0.735,63,240760
+422,Dear John,Speak Now,2010-10-25,5,7hZuICN5eaCuQyp443RCt6,spotify:track:7hZuICN5eaCuQyp443RCt6,0.166,0.589,0.47,1.45e-06,0.112,-5.32,0.028,119.386,0.102,60,403920
+423,Mean,Speak Now,2010-10-25,6,5yEPktRqvIhko5QFF3aBhQ,spotify:track:5yEPktRqvIhko5QFF3aBhQ,0.452,0.568,0.761,0.0,0.217,-3.987,0.0459,163.974,0.789,66,237733
+424,The Story Of Us,Speak Now,2010-10-25,7,3RBluWmSoG2pGA1OePzGJI,spotify:track:3RBluWmSoG2pGA1OePzGJI,0.00478,0.543,0.818,0.000368,0.0357,-3.611,0.0398,139.898,0.683,63,265666
+425,Never Grow Up,Speak Now,2010-10-25,8,1wJL1A0QUHJPf2cm7tsrdw,spotify:track:1wJL1A0QUHJPf2cm7tsrdw,0.819,0.714,0.305,0.0,0.174,-8.837,0.0305,124.91,0.554,58,290466
+426,Enchanted,Speak Now,2010-10-25,9,10eBRyImhfqVvkiVEGf0N0,spotify:track:10eBRyImhfqVvkiVEGf0N0,0.0739,0.455,0.623,0.000424,0.146,-3.878,0.0288,163.893,0.208,75,352186
+427,Better Than Revenge,Speak Now,2010-10-25,10,2ythurkTtSiyfK7GprJoFW,spotify:track:2ythurkTtSiyfK7GprJoFW,0.0139,0.516,0.917,6.37e-06,0.36,-3.186,0.0827,145.821,0.635,65,217160
+428,Innocent,Speak Now,2010-10-25,11,5GPwN5iZ9ZMSXAkppj4Uvv,spotify:track:5GPwN5iZ9ZMSXAkppj4Uvv,0.186,0.552,0.608,0.0,0.125,-5.29,0.0259,134.05,0.17,53,302253
+429,Haunted,Speak Now,2010-10-25,12,28M2gifMU282QBM3fKajIS,spotify:track:28M2gifMU282QBM3fKajIS,0.0826,0.436,0.95,1.08e-06,0.149,-2.627,0.057,162.088,0.352,60,242080
+430,Last Kiss,Speak Now,2010-10-25,13,4h0EXpatqJImv4VRgvX6po,spotify:track:4h0EXpatqJImv4VRgvX6po,0.57,0.371,0.341,3.09e-05,0.101,-9.475,0.0319,89.038,0.196,60,367133
+431,Long Live,Speak Now,2010-10-25,14,6XDBA3QWX51lDJ0oZbaJJN,spotify:track:6XDBA3QWX51lDJ0oZbaJJN,0.036,0.418,0.68,7.59e-05,0.108,-4.3,0.0346,204.125,0.142,58,317946
+432,Jump Then Fall,Fearless Platinum Edition,2008-11-11,1,08gavXombT6KR0af88i9tA,spotify:track:08gavXombT6KR0af88i9tA,0.111,0.618,0.687,0.0,0.0693,-5.737,0.0271,79.991,0.82,47,237066
+433,Untouchable,Fearless Platinum Edition,2008-11-11,2,2IZ00ed83ygPIiacYScWUE,spotify:track:2IZ00ed83ygPIiacYScWUE,0.0583,0.419,0.454,3.78e-06,0.0974,-6.809,0.0335,200.017,0.288,46,311040
+434,Forever & Always - Piano Version,Fearless Platinum Edition,2008-11-11,3,46HGgtwmmuEB8mvDCyjyAc,spotify:track:46HGgtwmmuEB8mvDCyjyAc,0.852,0.592,0.16,0.0,0.116,-10.785,0.0347,118.929,0.294,46,267506
+435,Come In With The Rain,Fearless Platinum Edition,2008-11-11,4,4pl5zcqCv4vc3cB7M4MZ6f,spotify:track:4pl5zcqCv4vc3cB7M4MZ6f,0.0868,0.527,0.475,4.34e-06,0.248,-6.205,0.0258,143.962,0.224,46,238106
+436,SuperStar,Fearless Platinum Edition,2008-11-11,5,14Bljc3pOOG0xQX3wqhLN9,spotify:track:14Bljc3pOOG0xQX3wqhLN9,0.367,0.61,0.531,0.0,0.351,-6.123,0.0239,85.979,0.228,44,261453
+437,The Other Side Of The Door,Fearless Platinum Edition,2008-11-11,6,0xvsgzM8AtBtRHZm5rav8A,spotify:track:0xvsgzM8AtBtRHZm5rav8A,0.169,0.476,0.816,0.0,0.238,-4.279,0.0347,163.847,0.469,45,237600
+438,Fearless,Fearless Platinum Edition,2008-11-11,7,3F6czr26ZwGU5O5CHY04Ma,spotify:track:3F6czr26ZwGU5O5CHY04Ma,0.0364,0.598,0.714,1.04e-06,0.31,-4.397,0.0273,99.979,0.467,49,242000
+439,Fifteen,Fearless Platinum Edition,2008-11-11,8,3M0w3fhdXByHLCNAoi5c9G,spotify:track:3M0w3fhdXByHLCNAoi5c9G,0.0728,0.559,0.636,0.0,0.144,-4.4,0.0263,95.485,0.214,48,294346
+440,Love Story,Fearless Platinum Edition,2008-11-11,9,0kN3oXYWWAk1uC0y2WoyOE,spotify:track:0kN3oXYWWAk1uC0y2WoyOE,0.157,0.618,0.736,0.0,0.073,-3.937,0.0308,118.982,0.307,54,235280
+441,Hey Stephen,Fearless Platinum Edition,2008-11-11,10,6wcFdMmiDscAhZJrcVFumx,spotify:track:6wcFdMmiDscAhZJrcVFumx,0.168,0.843,0.553,2.66e-06,0.107,-7.348,0.0317,115.997,0.825,46,254320
+442,White Horse,Fearless Platinum Edition,2008-11-11,11,4jPtq9shRdUv8Zjr0a5xkD,spotify:track:4jPtq9shRdUv8Zjr0a5xkD,0.302,0.585,0.346,0.0,0.102,-8.014,0.0256,92.564,0.195,47,234440
+443,You Belong With Me,Fearless Platinum Edition,2008-11-11,12,3as6Wz3mwbTnusWhZjTUNr,spotify:track:3as6Wz3mwbTnusWhZjTUNr,0.164,0.687,0.771,2.46e-05,0.112,-4.424,0.0384,129.964,0.445,54,231146
+444,Breathe,Fearless Platinum Edition,2008-11-11,13,6S9G7J3EB1ZY0rrZPwsBg5,spotify:track:6S9G7J3EB1ZY0rrZPwsBg5,0.373,0.498,0.486,0.0,0.113,-7.384,0.0273,147.952,0.17,47,263986
+445,Tell Me Why,Fearless Platinum Edition,2008-11-11,14,4XrP7vKBjKLEYlRZdb0Ygr,spotify:track:4XrP7vKBjKLEYlRZdb0Ygr,0.0606,0.601,0.852,3.41e-06,0.37,-3.096,0.0386,100.015,0.513,44,200560
+446,You're Not Sorry,Fearless Platinum Edition,2008-11-11,15,6HWYtS215rxaaMjvpyG18W,spotify:track:6HWYtS215rxaaMjvpyG18W,0.13,0.459,0.459,2.3e-06,0.113,-4.126,0.0275,134.018,0.281,45,261800
+447,The Way I Loved You,Fearless Platinum Edition,2008-11-11,16,77VotUUL79U10TAnYdqwvr,spotify:track:77VotUUL79U10TAnYdqwvr,0.0322,0.436,0.712,0.0,0.111,-3.689,0.0329,160.886,0.379,47,244240
+448,Forever & Always,Fearless Platinum Edition,2008-11-11,17,1zxrcAk6eiytfavqriMcKT,spotify:track:1zxrcAk6eiytfavqriMcKT,0.0907,0.605,0.829,0.0,0.106,-4.993,0.0549,128.012,0.514,46,225333
+449,The Best Day,Fearless Platinum Edition,2008-11-11,18,5YbZZ2gYfvW1UvHHF4pVaD,spotify:track:5YbZZ2gYfvW1UvHHF4pVaD,0.611,0.664,0.447,1e-06,0.139,-8.535,0.0292,126.079,0.364,44,245346
+450,Change,Fearless Platinum Edition,2008-11-11,19,0RdcBnAXyH2YZZvcBVu2k6,spotify:track:0RdcBnAXyH2YZZvcBVu2k6,0.00471,0.548,0.756,0.0,0.117,-4.175,0.036,96.038,0.224,44,281053
+451,Fearless,Fearless,2008-11-11,1,6Eu31gddWw0gOGO506pJYA,spotify:track:6Eu31gddWw0gOGO506pJYA,0.04,0.594,0.712,0.0,0.309,-4.418,0.0273,99.972,0.476,62,241986
+452,Fifteen,Fearless,2008-11-11,2,4t0OI7XrODjSkAu3bTPmWj,spotify:track:4t0OI7XrODjSkAu3bTPmWj,0.067,0.556,0.651,0.0,0.145,-4.396,0.0266,95.485,0.203,61,294333
+453,Love Story,Fearless,2008-11-11,3,1vrd6UOGamcKNGnSHJQlSt,spotify:track:1vrd6UOGamcKNGnSHJQlSt,0.17,0.618,0.741,0.0,0.0822,-3.95,0.031,118.984,0.296,72,235266
+454,Hey Stephen,Fearless,2008-11-11,4,4WXzzCof26KJLTK5kK53dS,spotify:track:4WXzzCof26KJLTK5kK53dS,0.194,0.841,0.544,2.48e-06,0.108,-7.347,0.0309,115.994,0.831,51,254306
+455,White Horse,Fearless,2008-11-11,5,6wn61Fzx9XMxQmieLpoIhW,spotify:track:6wn61Fzx9XMxQmieLpoIhW,0.305,0.578,0.34,0.0,0.104,-8.027,0.0264,92.702,0.223,56,234426
+456,You Belong With Me,Fearless,2008-11-11,6,3GCL1PydwsLodcpv0Ll1ch,spotify:track:3GCL1PydwsLodcpv0Ll1ch,0.162,0.687,0.783,1.35e-05,0.114,-4.44,0.0386,129.964,0.443,72,231133
+457,Breathe,Fearless,2008-11-11,7,49mWEy5MgtNujgT7xU3emT,spotify:track:49mWEy5MgtNujgT7xU3emT,0.379,0.505,0.482,0.0,0.113,-7.372,0.0276,73.975,0.184,48,263973
+458,Tell Me Why,Fearless,2008-11-11,8,3rnI1UCyGJvUTVvT97VQr5,spotify:track:3rnI1UCyGJvUTVvT97VQr5,0.0571,0.604,0.855,3.65e-06,0.343,-3.097,0.038,99.96,0.51,47,200546
+459,You're Not Sorry,Fearless,2008-11-11,9,0HmCuN0Z3OX1Qrz43FLOPL,spotify:track:0HmCuN0Z3OX1Qrz43FLOPL,0.146,0.475,0.452,1.36e-06,0.108,-4.134,0.027,133.959,0.276,49,261786
+460,The Way I Loved You,Fearless,2008-11-11,10,5P4wWhUYWM0IaVYLuZxdar,spotify:track:5P4wWhUYWM0IaVYLuZxdar,0.0408,0.433,0.7,0.0,0.115,-3.709,0.0336,160.927,0.398,57,244226
+461,Forever & Always,Fearless,2008-11-11,11,47HtKpfzpAt8rQjjXWotFj,spotify:track:47HtKpfzpAt8rQjjXWotFj,0.0752,0.608,0.821,0.0,0.11,-4.985,0.0576,128.042,0.544,52,225320
+462,The Best Day,Fearless,2008-11-11,12,3esA216TyLHEkNiBCeCmcg,spotify:track:3esA216TyLHEkNiBCeCmcg,0.647,0.666,0.434,1.95e-06,0.124,-8.543,0.0289,126.084,0.396,50,245333
+463,Change,Fearless,2008-11-11,13,1yACRKAwlXWhXXFUSkvzhD,spotify:track:1yACRKAwlXWhXXFUSkvzhD,0.00408,0.541,0.77,0.0,0.117,-4.17,0.0354,96.013,0.215,45,280240
+464,Love Story - Live From Clear Channel Stripped 2008,Live From Clear Channel Stripped 2008,2008-06-28,1,4RBKAqJ3qyvvriDG0s9IJ3,spotify:track:4RBKAqJ3qyvvriDG0s9IJ3,0.659,0.741,0.444,0.0,0.131,-7.031,0.0311,119.006,0.512,43,221028
+465,Fearless - Live From Clear Channel Stripped 2008,Live From Clear Channel Stripped 2008,2008-06-28,2,5g7RMU3cV7zXWH244BLe7G,spotify:track:5g7RMU3cV7zXWH244BLe7G,0.814,0.623,0.266,0.0,0.145,-5.894,0.026,96.601,0.467,42,198247
+466,Beautiful Eyes - Live From Clear Channel Stripped 2008,Live From Clear Channel Stripped 2008,2008-06-28,3,4aBW31cmkA7BLColUsMEeZ,spotify:track:4aBW31cmkA7BLColUsMEeZ,0.596,0.627,0.704,0.0,0.0598,-3.739,0.0269,98.958,0.457,47,176316
+467,Untouchable - Live From Clear Channel Stripped 2008,Live From Clear Channel Stripped 2008,2008-06-28,4,4MbHDiHQjhmoVAV75G04Ql,spotify:track:4MbHDiHQjhmoVAV75G04Ql,0.856,0.731,0.184,0.0,0.0927,-9.235,0.0418,102.404,0.331,38,222959
+468,Teardrops On My Guitar - Live From Clear Channel Stripped 2008,Live From Clear Channel Stripped 2008,2008-06-28,5,4DjevQhsPWULcondN4mRh5,spotify:track:4DjevQhsPWULcondN4mRh5,0.664,0.344,0.801,0.0,0.106,-5.373,0.0574,204.489,0.615,38,196346
+469,Picture To Burn - Live From Clear Channel Stripped 2008,Live From Clear Channel Stripped 2008,2008-06-28,6,7EvU9pRoJ9Xs7anx0P7tEc,spotify:track:7EvU9pRoJ9Xs7anx0P7tEc,0.266,0.647,0.872,0.0,0.419,-1.953,0.0524,105.798,0.684,38,173899
+470,Should've Said No - Live From Clear Channel Stripped 2008,Live From Clear Channel Stripped 2008,2008-06-28,7,5a9hUL6ZuiagZhazwrtwHF,spotify:track:5a9hUL6ZuiagZhazwrtwHF,0.399,0.429,0.808,0.0,0.0884,-3.004,0.0677,171.537,0.438,38,228473
+471,Change - Live From Clear Channel Stripped 2008,Live From Clear Channel Stripped 2008,2008-06-28,8,69o9kr9UexjzeZDE8yD8dQ,spotify:track:69o9kr9UexjzeZDE8yD8dQ,0.156,0.243,0.712,0.0,0.111,-4.307,0.0577,202.319,0.273,35,258487
+472,Tim McGraw,Taylor Swift,2006-10-24,1,0Om9WAB5RS09L80DyOfTNa,spotify:track:0Om9WAB5RS09L80DyOfTNa,0.575,0.58,0.491,0.0,0.121,-6.462,0.0251,76.009,0.425,69,232106
+473,Picture To Burn,Taylor Swift,2006-10-24,2,32mVHdy0bi1XKgr0ajsBlG,spotify:track:32mVHdy0bi1XKgr0ajsBlG,0.173,0.658,0.877,0.0,0.0962,-2.098,0.0323,105.586,0.821,74,173066
+474,Teardrops On My Guitar - Radio Single Remix,Taylor Swift,2006-10-24,3,7zMcNqs55Mxer82bvZFkpg,spotify:track:7zMcNqs55Mxer82bvZFkpg,0.288,0.621,0.417,0.0,0.119,-6.941,0.0231,99.953,0.289,70,203040
+475,A Place in this World,Taylor Swift,2006-10-24,4,73OX8GdpOeGzKC6OvGSbsv,spotify:track:73OX8GdpOeGzKC6OvGSbsv,0.051,0.576,0.777,0.0,0.32,-2.881,0.0324,115.028,0.428,62,199200
+476,Cold As You,Taylor Swift,2006-10-24,5,7an1exwMnfYRcdVQm0yDev,spotify:track:7an1exwMnfYRcdVQm0yDev,0.217,0.418,0.482,0.0,0.123,-5.769,0.0266,175.558,0.261,62,239013
+477,The Outside,Taylor Swift,2006-10-24,6,2QA3IixpRcKyOdG7XDzRgv,spotify:track:2QA3IixpRcKyOdG7XDzRgv,0.00491,0.589,0.805,0.0,0.24,-4.055,0.0293,112.982,0.591,60,207106
+478,Tied Together with a Smile,Taylor Swift,2006-10-24,7,6K0CJLVXqbGMeJSmJ4ENKK,spotify:track:6K0CJLVXqbGMeJSmJ4ENKK,0.525,0.479,0.578,0.0,0.0841,-4.963,0.0294,146.165,0.192,61,248106
+479,Stay Beautiful,Taylor Swift,2006-10-24,8,2ZoOmCSgj0ypVAmGd1ve4y,spotify:track:2ZoOmCSgj0ypVAmGd1ve4y,0.0868,0.594,0.629,0.0,0.137,-4.919,0.0246,131.597,0.504,60,236053
+480,Should've Said No,Taylor Swift,2006-10-24,9,16MVSD0mGI4RMQT83Qzm69,spotify:track:16MVSD0mGI4RMQT83Qzm69,0.0103,0.476,0.777,0.0,0.196,-3.771,0.0289,167.964,0.472,70,242200
+481,Mary's Song (Oh My My My),Taylor Swift,2006-10-24,10,2QrQCMel6v2JiLxqrg4p2O,spotify:track:2QrQCMel6v2JiLxqrg4p2O,0.0177,0.403,0.627,0.0,0.182,-5.28,0.0292,74.9,0.374,63,213080
+482,Our Song,Taylor Swift,2006-10-24,11,15DeqWWQB4dcEWzJg15VrN,spotify:track:15DeqWWQB4dcEWzJg15VrN,0.111,0.668,0.672,0.0,0.329,-4.931,0.0303,89.011,0.539,78,201106
+483,I'm Only Me When I'm With You,Taylor Swift,2006-10-24,12,0JIdBrXGSJXS72zjF9ss9u,spotify:track:0JIdBrXGSJXS72zjF9ss9u,0.00452,0.563,0.934,0.000807,0.103,-3.629,0.0646,143.964,0.518,64,213053
+484,Invisible,Taylor Swift,2006-10-24,13,5OOd01o2YS1QFwdpVLds3r,spotify:track:5OOd01o2YS1QFwdpVLds3r,0.637,0.612,0.394,0.0,0.147,-5.723,0.0243,96.001,0.233,60,203226
+485,A Perfectly Good Heart,Taylor Swift,2006-10-24,14,1spLfUJxtyVyiKKTegQ2r4,spotify:track:1spLfUJxtyVyiKKTegQ2r4,0.00349,0.483,0.751,0.0,0.128,-5.726,0.0365,156.092,0.268,58,220146
+486,Teardrops on My Guitar - Pop Version,Taylor Swift,2006-10-24,15,4pJi1rVt9GNegU9kywjg4z,spotify:track:4pJi1rVt9GNegU9kywjg4z,0.0402,0.459,0.753,0.0,0.0863,-3.827,0.0537,199.997,0.483,58,179066
