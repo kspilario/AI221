@@ -1,4 +1,4 @@
-% This is an comparison between Rosenblatt's Perceptron and SVM
+% This is a comparison between Rosenblatt's Perceptron and SVM
 % from Cristianini and Shawe-Taylor (2000). "Support Vector Machines
 % and Other Kernel-based Learning Methods".
 
