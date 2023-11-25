@@ -21,7 +21,7 @@ The repository is organized into folders based on the weekly topics covered in t
 - Week 12. [AutoML and Explainable AI (XAI)](/AutoML_and_XAI)
 
 ## Contributing
-If you find any issues or have any suggestions for improvement, feel free to contact me via kspilario@up.edu.ph. If any codes are not working on your terminal, let me know.
+If you find any issues or have any suggestions for improvement, feel free to contact me via kspilario@up.edu.ph. If any codes are not working on your terminal, let me know. :)
 
 [![View AI 221 - Classical ML - Code Repository on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/130449-ai-221-classical-ml-code-repository)
 
