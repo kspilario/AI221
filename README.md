@@ -7,7 +7,7 @@ Pre-requisite knowledge on linear algebra (AI 211), optimization theory, basic s
 
 ## Usage
 The repository is organized into folders based on the weekly topics covered in the class, as follows:
-- Week 1. Introduction to Machine Learning
+- Week 1. [Introduction to Machine Learning](/Intro)
 - Week 2. [Exploratory Data Analysis](/Exploratory_Data_Analysis)
 - Week 3. [Linear and Logistic Regression](/Linear_and_Logistic_Regression)
 - Week 4. [Kernel Methods](/Kernel_Methods)
