@@ -12,12 +12,12 @@ The repository is organized into folders based on the weekly topics covered in t
 - Week 3. [Linear and Logistic Regression](/Linear_and_Logistic_Regression)
 - Week 4. [Kernel Methods](/Kernel_Methods)
 - Week 5. [Cross-validation and Hyper-parameter Search](/Cross-validation)
-- Week 6. [Linear Dimensionality Reduction and LDA](/Linear_DimReduce+LDA)
-- Week 7. [Nonlinear Dimensionality Reduction](/Nonlinear_DimReduce)
-- Week 8. [Clustering, Density Estimation, Anomaly Detection](/Clustering_Anomaly_Detect)
-- Week 9. [Trees, Weak Learners, and Ensemble Learning](/Ensemble_Learning)
-- Week 10. [Neural Networks](/Neural_Networks)
-- Week 11. [Gaussian Processes and Bayesian Optimization](/Gaussian_Process+BayesOpt)
+- Week 6. [Gaussian Processes and Bayesian Optimization](/Gaussian_Process+BayesOpt)
+- Week 7. [Neural Networks](/Neural_Networks)
+- Week 8. [Trees, Weak Learners, and Ensemble Learning](/Ensemble_Learning)
+- Week 9. [Linear Dimensionality Reduction and LDA](/Linear_DimReduce+LDA)
+- Week 10. [Nonlinear Dimensionality Reduction](/Nonlinear_DimReduce)
+- Week 11. [Clustering, Density Estimation, Anomaly Detection](/Clustering_Anomaly_Detect)
 - Week 12. [AutoML and Explainable AI (XAI)](/AutoML_and_XAI)
 
 ## Contributing
